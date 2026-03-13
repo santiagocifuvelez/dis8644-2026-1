@@ -25,15 +25,15 @@ https://youtu.be/sxdL6LZKS-0?si=9z6Cs8z_Kr-dilJ2
 Obras importantes
 
 Entre las obras más importantes de Suzanne Ciani se encuentran:
-	•	Seven Waves(1982): álbum que presenta paisajes sonoros electrónicos complejos creados con sintetizadores y secuenciadores.
+Seven Waves(1982): álbum que presenta paisajes sonoros electrónicos complejos creados con sintetizadores y secuenciadores.
 
 https://youtube.com/playlist?list=PLJPztq7aAo9yis1OnYgI04ex2WVp0zBWo&si=DAJWd4GrOP9Lamk0
 
-	•	The Velocity of Love(1986): uno de sus discos más conocidos, donde combina piano y sintetizadores para crear música atmosférica.
+The Velocity of Love(1986): uno de sus discos más conocidos, donde combina piano y sintetizadores para crear música atmosférica.
 
 https://youtube.com/playlist?list=OLAK5uy_nT_Bp22rFBTUGfja0d-8PxUIkQnKsGp5s&si=Au2EcPuhaQZb8-Bu 
 
-	•	Buchla Concerts 1975: grabaciones de conciertos experimentales realizados con sintetizadores modulares.
+Buchla Concerts 1975: grabaciones de conciertos experimentales realizados con sintetizadores modulares.
 
 https://youtu.be/nJWk7jiASP0
 
