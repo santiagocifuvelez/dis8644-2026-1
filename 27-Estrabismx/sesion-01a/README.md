@@ -10,6 +10,8 @@
 
 Nacida en el año 1939 en Estados Unidos, ingresa a la Brown University (ubicada en Rhode Island) donde estudia música y física, posteriormente en la Universidad de Columbia en Nueva York donde obtuvo su máster en música. Siendo ya los años 60, conoció a Robert Moog (figura destacada en la evolución del sintetizador) con quien colaboró en la creación del famoso “Moog modular”, el cual posteriormente utilizaría para crear “switched-on Bach”
 
+![Alt text](https://m.media-amazon.com/images/I/71kum4J-E9L._UF1000,1000_QL80_.jpg)
+
 Switched-on Bach fue un disco que Wendy Carlos grabó en 1968 donde recopiló canciones de Johann Sebastian Bach pero grabadas enteramente en un sintetizador Moog, algo completamente nuevo para la época (tenemos que considerar que durante su etapa universitaria constantemente se le mencionaba el poco futuro de la música realizada sin instrumentos o electrónica). Este disco se posicionó en el listado Billboard entre los años 1969 a 1972, considerando que en este periodo competía contra The Beatles, además en el año 1970 ganó el Grammy a Mejor Álbum Clásico, Mejor Interpretación Clásica y Mejor Grabación Clásica Ingeniera. 
 
 Posteriormente trabajó realizando la banda sonora en películas de Stanley Kubric,  como lo fueron “La naranja mecánica” y “El resplandor”, además de participar en la musicalización de la película “Tron” de Disney. Todos estos antecedentes nos muestra como Carlos fue un pilar fundamental en la masificación de la música electrónica, donde los sintetizadores siguen ocupándose a dia de hoy en la música, como ejemplo, te invito a revisar el listado Billboard, es probable que el 90% de las canciones posean algún tipo de sintetizador en su producción. 
