@@ -28,16 +28,17 @@
 ![imagen1](/imagen/circuito-6leds-2)
 
 #### ENCARGOOOO 
+
 #### Ejercicio 1
 
 ![Circuito 1](./imagenes/lqxtlc1.png)
 
 | loquitoportilocoloco  | D1    | D2    | D3    | D4    |
 | ---                   | ---   | ---   | ---   | ---   |
-| R1                    |       |       |       |       |
-| R3                    |       |       |       |       |
-| R4                    |       |       |       |       |
-| R2                    |       |       |       |       |
+| R1                    |   0   |   0   |    0  |   0   |
+| R3                    |   1   |    1  |    1  |   0   |
+| R4                    |   1   |    1  |    1  |   0   |
+| R2                    |   1   |   0   |   0   |   1   |
 | R5                    |    1  |   0   |  0    |   1   |
 
 #### Ejercicio 2
