@@ -27,6 +27,8 @@ Los primeros dos colores son los primeros dos dígitos, mientras que el tercer c
 
 Se nos mostraron ejemplos de circuitos en la pizarra para enseñarnos que no solo existen los circuitos básicos, sino que también están los paralelos, en donde los LED son independientes. Aparte, se nos mostró que hay distintas maneras en las que se puede representar la batería, la cual no necesariamente tiene que estar como un solo símbolo, sino que se puede separar a los dos extremos como 9v y 0v.
 
+---
+
 ### Encargo LQXTLC (Lo Quito X Ti, Lo Coloco)
 
 #### Primer circuito
@@ -68,3 +70,17 @@ Se nos mostraron ejemplos de circuitos en la pizarra para enseñarnos que no sol
 | R4                   |  1  |  0  |  1  |  0  |
 | R5                   |  1  |  1  |  1  |  1  |
 | R6                   |  1  |  1  |  1  |  1  |
+
+---
+
+### Encargo artistas
+
+#### Kraftwerk
+
+Escuché el álbum Die Mensch-Maschine, publicado el 19/05/1978. Al inicio estaba escuchando la versión en inglés, pero al terminar el álbum se empezó a reproducir la versión en alemán, la cual encontré aún más interesante ya que no podía entender lo que decían y de igual manera sonaba agradable.
+
+La canción Spacelab entre los primeros 40 segundos me recordó por un momento al álbum Mother Earth's Plantasia (1976), pero puede que sea sólo por el juego en loop que hace con las notas de bajas a altas y su velocidad. Otra cosa que se me hizo curioso es como en todo el disco cantan con voces robóticas, pero se hace la excepción en Das Model y en Neonlicht en donde usan la voz humana.
+
+![Portada del álbum](./imagenes/die-mensch-maschine.jpg)
+
+La portada está inspirada en el artista ruso El Lissitzky y en el movimiento supremacista. En la fotografía tomada por Gunther Frohling, los integrantes estaban usando camisas rojas y corbatas negras, lo cual daba pistas sobre la critica al comunismo ruso que usó al proletariado de manera poco humana, pareciendo robótica y dominada. Ésto también se puede observar en las presentaciones en vivo, en donde los integrantes se van alejando de sus puestos en el escenario y son reemplazados por los muñecos robots, copias de ellos mismos. En la última canción del álbum, Die Mensch-Maschine, se repite en todo momento "die mensch-maschine", con una voz robótica, demostrando así el como el hombre tiene que trabajar de manera mecánica, al igual que una máquina, sin tener como opción el poder distinguirse de los demás.
