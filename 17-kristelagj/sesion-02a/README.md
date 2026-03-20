@@ -95,7 +95,15 @@ Entonces comencé a pensar: ¿qué los hace parecidos y porque me gustan tanto? 
 
 Elegí el álbum “american dream” (loco igual, ya que la pieza que mencioné anteriormente fue del programa “americano en parís”) ya que contiene mi canción favorita “oh baby”. Este álbum los reúne tras 5 años de separación. Este se tomó una cantidad de 18 meses aproximadamente de su grabación teniendo que cancelar fechas en Asia para poder completarlo. Musicalmente, American Dream ha sido descrito como dance-punk, new wave , post-punk, synth-pop, art rock y dance-rock (esto explica porque me gusta mucho este álbum). Los críticos señalaron que el álbum era similar a la trilogía berlinesa de David Bowie (al igual que esto).
 
-Al igual que las críticas, no es de mi interés y gusto su portada (me gusta hablar de esto ya que yo me dedico a realizar este trabajo)
+Al igual que las críticas, no es de mi interés y gusto su portada (me gusta hablar de esto ya que yo me dedico a realizar este trabajo) 
+
+
+Kraftwerk
+
+De primeras, cuando los escuché en la sala de clases, no me gustaron para nada, son 0 lo que escucho y me gusta. Puedo decir que no me gustan los sonidos que utilizan en muchos de sus temas, eso es lo que me llama la atención la atención de ellos además como utilizan sus voces, no es agradable. 
+
+Pero a pesar de mi opinión personal no se puede negar ni dejar de lado la importancia que tiene a la música electrónica, en estos casos hay que saber reconocer considerándose como los “Beatles de la música electrónica”. 
+
 
 - Ejercicios
 
