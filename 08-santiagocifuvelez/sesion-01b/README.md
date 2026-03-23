@@ -38,9 +38,6 @@ Ya con esto claro, el profesor precedió a pasar de la teoría a la práctica, p
 
 Lxs profesores, se tomaron el tiempo de explicarnos detalladamente por medio de un programa llamado: Tinkercad, y aplicamos la formula que nos enseñaron para formar el circuito; Un cable es una intersección, un circuito es algo que se puede circular, mientras haya camino entre los polos. Todo lo anteriormente mencionado, lo íbamos realizando al mismo ritmo de lxs docentes, y el objetivo de ellxs era prender una mini luz LED.
 
-<img src="https://github.com/user-attachments/assets/3fbf9c71-acb0-466a-ab94-cb184d7866a4" width="250">
-<img src="https://github.com/user-attachments/assets/8874a0a3-7628-4f2b-811f-d85c95745ff2" width="250">
-<img src="https://github.com/user-attachments/assets/04cefbfd-25d0-4320-af4a-34f20246ec2d" width="250">
 
 Y la mejor parte, fue que se logró encender: (ver video)
 
@@ -51,7 +48,7 @@ Y la mejor parte, fue que se logró encender: (ver video)
 Y eso fue todo por la clase.
 Gracias por ver!
 
-## “The internet’s own boy”
+## 3. “The internet’s own boy”
 
 *I want to make the world a better place*
 
