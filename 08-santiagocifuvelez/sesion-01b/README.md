@@ -24,9 +24,7 @@ Agregando a lo anterior, los docentes y unxs compañerxs nos enseñaron unos cua
 
 ## 2.	Primer acercamiento a los circuitos 
 
-(Para continuar la clase, me compre unas galletas que desde que llegue a Chile no puedo separarme de ellas, y además me quitan el sueño. Recomendadas nivel Dios si te gusta el chocolate blanco).
-
-![Galletas que me encantan](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-01b/imagenes/cookies.jpeg)
+(Para continuar la clase, me compre unas galletas que desde que llegue a Chile no puedo separarme de ellas, y además me quitan el sueño. Recomendadas nivel Dios si te gusta el chocolate blanco, se llaman “Kuky chip chipers” de chocolate blanco ).
 
 La clase de circuitos fue muy dinámica. El profesor Matías utilizó una analogía hidráulica para explicarnos conceptos básicos de física: comparó un circuito eléctrico con una torre de acumulación de agua conectada a una manguera que riega una planta. En este ejemplo, la torre representa el voltaje (la presión que impulsa el flujo), la manguera el conductor, y la planta el dispositivo que consume energía. A través de esta analogía explicó cómo la resistencia permite regular el flujo de corriente para que esta llegue de manera moderada según el objetivo del circuito. 
 
