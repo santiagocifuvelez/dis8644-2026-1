@@ -162,12 +162,19 @@ sensibilidad para captarlo, y aprender de ellas, de las
 antepasadas y del sonido que nos rodea.  
 
 <div>
-  <img src="https://i.scdn.co/image/ab6761610000e5ebb7054b0057443749b505dbdd" width="30%">
-  <img src="https://cdn-images.dzcdn.net/images/artist/8a207720e8bed18bab25883fba019dc7/1900x1900-000000-80-0-0.jpg" width="30%">
-  <img src="https://static.dezeen.com/uploads/2017/05/Imogen-Heap-and-Mi.Mu-gloves_dezeen_1.jpg" width="30%">
-  <img src="https://static.wikia.nocookie.net/doblaje/images/5/58/Bjork.jpg/revision/latest?cb=20250506001514&path-prefix=es" width="30%">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Psilodump_at_Birdie_2006.jpg" width="30%">
-   <img src="https://i.scdn.co/image/ab6761610000e5eb304d7278aac1f8994055480b" width="30%">
+  
+![Arca](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-01a/imagenes/arca.jpg)
+
+![Grimes](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-01a/imagenes/grimes.jpg)
+
+![Bjork](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-01a/imagenes/bjork.jpeg)
+
+![Imogen Heap](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-01a/imagenes/mimu.jpg)
+
+![Psilodump](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-01a/imagenes/psilodump.jpg)
+
+![Safety trance](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-01a/imagenes/safetytrance.png)
+
 </div>
 
 ## Referencias (Barcelona, 2019) (Oliva, 2018) 
