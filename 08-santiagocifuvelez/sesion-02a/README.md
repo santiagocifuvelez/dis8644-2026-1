@@ -37,6 +37,11 @@ Permiten “repartir” el voltaje en un circuito (como en el ejemplo que nos hi
 
 ![OHM](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-02a/imagenes/img3.jpg)
 
+Volviendo al ejemplo de la reserva de agua del profesor: 
+
+**Electricidad** = agua --- **Cable** = tubería --- **Resistencia** = una parte angosta del tubo 
+
+
 ## Entrega de ejercicios
 ![Ejercicio 1](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-02a/imagenes/ej-1.jpg)
 
