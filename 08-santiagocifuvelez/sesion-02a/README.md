@@ -52,7 +52,9 @@ Las resistencias presentan bandas de colores que funcionan como un código estan
 Les voy a explicar como funciona: 
 ![resistencias period](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-02a/imagenes/img5.jpg) *Puedes buscar la tabla en internet como: Tabla de códigos del color de resistencia.*
 
-## Entrega de ejercicios
+## 3. Aprendimos a leer circuitos gráficos para volverlos realidad en nuestra protoboard.
+
+## 4. Entrega de ejercicios
 ![Ejercicio 1](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-02a/imagenes/ej-1.jpg)
 
 ![ejercicio 2](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-02a/imagenes/ej-2.jpg)
