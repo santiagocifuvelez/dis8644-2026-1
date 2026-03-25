@@ -31,7 +31,7 @@
 
 ---
 
-### <ins>Significado de palabras o para qué sirven ciertas cosas vistas en clase o que no recordaba.⁣/ins>
+### <ins>Significado de palabras o para qué sirven ciertas cosas vistas en clase o que no recordaba⁣/ins>
 * **C** = capacitor
 * **Astable** = Inestable
 * **Frecuencia** = Rapidez y repetición de este fenómeno.
