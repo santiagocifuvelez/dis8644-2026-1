@@ -94,6 +94,26 @@ Mientras más luz recibe, más rápido es el parpadeo de la luz; mientras menos 
 
 ![fotoresistor](./imagenes/fotoresistor.jpg)
 
+___
+
+### Práctica encargo
+
+Práctica de ejercicio con chip 555, realizada para repasar y practicar de forma autónoma, sin ayuda. El resultado fue bueno; sin embargo, al parecer la batería está descargada o el cable negativo está en mal estado, ya que debía acomodarlo en cierta posición para que el LED encendiera, y solo lo hacía por muy poco tiempo. Quizás también pudo haber ocurrido algún otro error. Confirmar en clase.
+![practica](./imagenes/practica-repaso.jpg)
+
+**10 preguntas próxima clase**
+
++ ¿Qué significa representar el circuito como grafo?
++ ¿Cómo saber qué resistencia elegir?
++ ¿Qué ocurre si usamos una batería de mayor voltaje?
++ ¿Afecta el funcionamiento del circuito si usamos más o menos cables Dupont?
++ ¿Qué ventajas tiene usar múltiples resistencias en serie para un LED en vez de una sola resistencia con el mismo valor total?
++ ¿Cómo influye el valor del potenciómetro en el comportamiento del circuito?
++ ¿Qué pasa si se conectan resistencias de distintos valores en paralelo?
++ ¿Qué ocurre si una resistencia se sobrecalienta?
++ ¿Qué consecuencias tiene un cortocircuito para los componentes?
++ ¿Cómo influye la disposición física de los componentes en el circuito?
+
 
 
 

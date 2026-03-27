@@ -1,5 +1,46 @@
 # sesion-01b
+# tinkercad #
 
+sirve para modelar y hacer circuitos ( entrar con mail udp)
+
++ resistencia (límite de velocidad)
++ flujo
++ potencial
++ corriente (flujo o desplazamiento de cargas eléctricas/electrones)
++ diferencia
++ poder
++ energía
++ materia (carbón, silicio, cobre)
+
+
+# ley de ohm #
+
+![leydeohm](./imagenes/ley_ohm.png)
+
+
+**diferencia de potencial** = voltaje
+
+# protoboard #
+
+![protoboard](./imagenes/protoboard.jpg)
+
+# diodo led #
+
+![led](./imagenes/diodo.png)
+
+conduce electricidad de un sentido
+
++ pata larga: carga positiva (anodo)
++ pata corta: carga negativa (catodo)
+
+
+
+
+
+
+
+
+# aaron swartz #
 Aaron Swartz consideraba la programación como algo casi mágico, una herramienta que permitía crear cosas enormes desde una simple computadora. Para él, el internet no era solo tecnología, sino una forma de cambiar cómo las personas acceden al conocimiento y se conectan entre sí. El documental lo muestra como alguien extremadamente brillante e idealista. Para él, internet debía servir para liberar el conocimiento  no para restringirlo o convertirlo en un negocio cerrado. Su historia también plantea una pregunta importante: hasta qué punto el acceso a la información debería ser un derecho y no un privilegio.
 
 Tim Berners-Lee

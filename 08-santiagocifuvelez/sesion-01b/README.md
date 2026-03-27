@@ -28,7 +28,9 @@ Agregando a lo anterior, los docentes y unxs compañerxs nos enseñaron unos cua
 
 ![codigos escritos por Santi](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-01b/imagenes/img2.jpg)
 
-Ya con esto claro, el profesor precedió a pasar de la teoría a la práctica, pasándonos los elementos necesarios para realizar el ejercicio: la protoboard, el clip de batería, la batería, la luz led, y otros elementos más cuyos nombres no tengo presentes, y manos a la obra:
+Ya con esto claro, el profesor precedió a pasar de la teoría a la práctica, pasándonos los elementos necesarios para realizar el ejercicio: la protoboard, el clip de batería, la batería, la luz led, y otros elementos más y manos a la obra:
+
+![Circuitos](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-01b/imagenes/img3.jpg)
 
 (Mini video de como se veía)
 
@@ -38,9 +40,7 @@ Ya con esto claro, el profesor precedió a pasar de la teoría a la práctica, p
 
 Lxs profesores, se tomaron el tiempo de explicarnos detalladamente por medio de un programa llamado: Tinkercad, y aplicamos la formula que nos enseñaron para formar el circuito; Un cable es una intersección, un circuito es algo que se puede circular, mientras haya camino entre los polos. Todo lo anteriormente mencionado, lo íbamos realizando al mismo ritmo de lxs docentes, y el objetivo de ellxs era prender una mini luz LED.
 
-<img src="https://github.com/user-attachments/assets/3fbf9c71-acb0-466a-ab94-cb184d7866a4" width="250">
-<img src="https://github.com/user-attachments/assets/8874a0a3-7628-4f2b-811f-d85c95745ff2" width="250">
-<img src="https://github.com/user-attachments/assets/04cefbfd-25d0-4320-af4a-34f20246ec2d" width="250">
+![Circuitos en clase](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-01b/imagenes/img4.jpeg)
 
 Y la mejor parte, fue que se logró encender: (ver video)
 
@@ -51,4 +51,20 @@ Y la mejor parte, fue que se logró encender: (ver video)
 Y eso fue todo por la clase.
 Gracias por ver!
 
-## “The internet’s own boy”
+## 3. “The internet’s own boy”
+
+*I want to make the world a better place*
+
+Antes de ver el documental, mi expectativa era como encontrar una narrativa centrada más en la creación de Reddit y su evolución como plataforma a lo largo del tiempo, y una biografía de lo exitoso que fue Aaron y la influencia que tuvo en los medios y la tecnología, pero esto termino siendo como el foco segundario (y eso). Más que un documental sobre innovación tecnológica, es más una historia para reflexionar…, la ética, el conocimiento y el poder.
+
+El documental de “The internet´s Own boy”, dirigido por Brian Knappenberger, nos cuenta la vida de Aaron Swartz, un chico que era un prodigio en la programación y a su vez, uso este conocimiento para ser activista por el acceso libre a la información. A los 12 años, él desarrollo “The info network”, una enciclopedia colaborativa (antes de que existiera Wikipedia), con la cual ganó el premio a ArsDigita. También fue el cofundador de Reddit, pero el documental deja claro que el verdadero interés de Aaron, no era el éxito empresarial, sino la democratización de la información en internet, ya que en su pensamiento estaba que el conocimiento, especialmente el financiado con fondos públicos, debía ser accesible para todos, todas y todes. Además, se evidencia en que el fue parte del movimiento contra la ley SOPA (Stop Online Piracy) la cual intentaba privatizar y combatir la piratería en línea, pero fue muy fuertemente criticada porque tenía el potencial para bloquear los buscadores como Google, y las redes sociales, y restringir la libertad del internet.
+
+Continuando con lo anterior, el gobierno de estados unidos, presento cargos severos contra Aaron por su activismo, ocasionando que a sus 26 años, tomara la decisión de quitarse la vida. Un hecho totalmente lamentable…, porque la muerte de una mente tan brillante como la de Aaron, se pudo haber evitado si no hubiera sido por el uso desproporcionado del sistema judicial y la presión que este puso sobre él (Aaron) solo por luchar para que el acceso al conocimiento fuera para todxs. (Incluso yo creo que lxs mismxs colaborades del sistema judicial, necesitaban o necesitarían en algún momento, uso de esta información libre en internet).
+
+“"Aaron's death is not simply a personal tragedy. It is the product of a criminal justice system rife with intimidation and prosecutorial overreach," the statement said”. (BBC news, 2013)
+
+*Bibliografía*
+- BBC news. (13 de enero de 2013). BBC news. Obtenido de BBC news: https://www.bbc.com/news/world-us-canada-21001452
+- Knappenberger, B. (Dirección). (2014). The Internet’s Own Boy – Aaron Swartz Documentary [Película].
+
+

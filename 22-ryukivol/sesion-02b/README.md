@@ -24,3 +24,16 @@ V = I * R OHM
 - 1 UF no parpadea
 - ### Al cambiar R2
 - potenciometro permite regular la intensidad de los parpadeos 
+
+### Encargo 
+- Preguntas
+ - Como podemos integrar circuitos en otras formas?
+ - Crearemos carcasas en 3d para los circuitos?
+ - Veremos la programación de leds o tiras Led?
+ - Sirve pegar la placa con silicona dentro de una carcasa?
+ - Qué pasa si le meto más voltaje al circuito del que realmente pide?
+ - Hay placas que manden señales por WiFi?
+ - Que tipo de placas o circuitos se usan para controlar las tiras led 
+ - Que programas se utilizan para crear perfiles de luces led (que se muevan por colores de forma fluida)
+ - Mejores apps o programas para aprender 
+ - Haremos proyectos mezclando los circuitos con el 3d?
