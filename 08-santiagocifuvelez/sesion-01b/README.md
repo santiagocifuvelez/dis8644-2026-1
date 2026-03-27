@@ -14,7 +14,7 @@ Ahora que ya tenemos presente la estructura…, veamos el contenido.
 
 ## 1.	Github como herramienta de documentación de nuestro proceso de aprendizaje.
 
-Para mi sorpresa, me he vuelto a encontrar con Github…, antes la había usado en mi colegio, pero no nos llevamos muy bien en ese momento. Ahora debo aprender de nuevo lo conocido, pero desde una nueva perspectiva… ¿Más madura?
+Para mi sorpresa, me he vuelto a encontrar con Github…, antes la había usado en mi colegio, pero no nos llevábamos muy bien en ese momento. Ahora debo aprender de nuevo lo conocido, pero desde una nueva perspectiva… ¿Más madura?
 
 La clase comenzó con una charla muy cálida, teniendo como tema principal, un documental que teníamos que ver y seleccionar nuestra personaje favorita, etc…, pero luego, entramos en materia a aprender a usar Github para subir nuestros apuntes de clase, avances, y prácticamente llevar nuestra bitácora digital y que mis docentes puedan ver todo en tiempo real si así lo requieren.
 
