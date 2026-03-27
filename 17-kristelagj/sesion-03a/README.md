@@ -17,9 +17,32 @@
 
 ### clase
 
-- Primera parte: Aaron
+- Misaa
 
-- Segunda parte: Misaa
+**10k:** LDR (fotoresistor)
+
+Condensador: (agregar foto)
+
+**Circuito astable:** sin estabilidad
+
+Cambiar el potenciador para que sea más agudo.
+
+**Transducción:** tomar energía y hacerla en otra
+
+**Victorian oscillator:** equilibrio precario
+
+La resistencia RA debe ser mayor a 1K, si no segunda el 555*** (colocar foto)
+
+- *Macumbista:** scound box
+
+ - John Cage
+
+Hace las cosas y disfruta
+
+Entre más resistencia, menos cantidad de energía
+
+Condensador es como un torniquete
+
 
 ### imagenes de proceso
 
