@@ -59,13 +59,13 @@ Con mi grupo tomamos la decisión de tener un proceso personal ya que la moviliz
 
 **Diagrama esquemático:** Representación simplificada de los elementos en un circuito. No sólo muestra cómo están conectados los componentes, sino cómo influye la electricidad a través del circuito.
 
-¿Dónde fluye la corriente?
+- ¿Dónde fluye la corriente?
 
 → Desglosa el diagrama en secciones funcionales.
 
 → La dirección muestra cómo interactúan los componentes entre sí. Se utiliza el + o 
 
-Reconocer cada componente
+- Reconocer cada componente
 
 → Los símbolos de los componentes son la mitad de la historia. Cada símbolo debe acompañarse de un nombre y un valor
 
@@ -99,7 +99,7 @@ Intentar reconocer a qué corresponde y seguir el flujo de entrada a salida.
 ![elementos esquematico](imagenes/elementos_esquematico.jpeg)
 ![cc](imagenes/representar_cc.jpeg)
 
-Rastrea conexiones
+- Rastrea conexiones
  → Cada línea es un cable. Muestran cómo se realizan las conexiones y rutas por donde fluye corriente.
  
  → Sigue la línea por donde fluye la carga hasta llegar a que junte. Es importante: observar si es en serie o en paralelo.
@@ -108,7 +108,7 @@ Rastrea conexiones
 
  **Conectados en paralelo:** comparten la misma tensión entre sus terminales.
 
-Enlaces, Nodos, Etiquetas
+- Enlaces, Nodos, Etiquetas
 
 **Enlaces:** cómo los componentes están conectados en un circuito. Representados como líneas entre componentes y terminales.
 
