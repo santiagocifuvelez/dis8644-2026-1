@@ -62,19 +62,17 @@ Reconocer cada componente
 → **Valores:** definir qué es un componente, importante
 
  ↳ Resistores, capacitores e inductores: el valor nos dice cuántos ohm, farad o henrios tiene
+ 
  ↳ Circuito integrado = nombre del chip (555)
  
 → **Nombre:** 1 o 2 letras y un número
 
  ↳ Tipo de componente
  
- R = resistores → R1, R2, R3
- 
- C = capacitores → C1, C2, C3
- 
- U = circuito integrado → U1, U2, U3
- 
- Transistores = Q
+ 1. R = resistores → R1, R2, R3
+ 2. C = capacitores → C1, C2, C3
+ 3. U = circuito integrado → U1, U2, U3
+ 4. Transistores = Q
  
 El nombre nos ayuda a hacer referencia a partes en el esquemático
 
