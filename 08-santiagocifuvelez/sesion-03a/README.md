@@ -19,7 +19,5 @@ Veamos que tal.
 
 La frecuencia es básicamente qué tan rápido se repite una señal eléctrica en el tiempo. En otras palabras; es la cantidad de veces que una corriente o voltaje completa un ciclo en un segundo.
 
-•	Frecuencia baja → **cambios lentos (ondas largas)**
-
-•	Frecuencia alta → **cambios rápidos (ondas cortas)**
+![frecuencia](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-03a/imagenes/img1.jpg)
 
