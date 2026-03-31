@@ -47,6 +47,8 @@ Fue el primer acercamiento visto en clases, donde el modo astable convierte al 5
 
 Funciona mediante la carga y descarga cíclica de un capacitor externo a través de resistencias. Se utiliza principalmente para generar ondas cuadradas, señales de reloj, luces intermitentes o ***tonos de audio.*** 
 
+***Resumido y con analogía:*** Cuando la corriente empieza a circular, se activa el pin 2 que le manda una señal al pin 3 que deja la onda de corriente en la *parte alta*, mientras esto ocurre la energía fluye por R1 y RV1 que cargan el capacitor 3, cuando llega a cierto nivel de carga C3, el pin 6 lo detecta y manda una señal al pin 7 para que se conecte a tierra y descargar al capacitor, al ocurrir todo esto el input *2* detecta que no hay corriente y vuelve a activarse, iniciando así un nuevo ciclo
+
 ![Esquematico sesion-02b](./imagenes/esquematico.png)
 
 > Esquematico Astable sesion-02b
@@ -143,8 +145,32 @@ https://www.555-timer-circuits.com/
 
 ![Ejemplo Servo Tester](./imagenes/captura-de-pantalla2.png)
 
+<br>
 
-***LUGARES DE ELECTRONICA, CHIPS QUEMADOS Y SUS REFLEXIONES*** 
+### Chips quemados ###
+
+Durante la ejecucción del ejercicio me percaté que a pesar de tener todo conectado no funcionaba el modo monostable del ***Atari Punk Console***, luego de 15 minutos intenté cambiar los chips, ahí es donde caí en cuenta que de los 4 que tenía, queme 3. En el momento le tome mucha importanica, luego de revisar el Discord de la clase, vi que compartieron lugares para comprar componentes electrónicos y luego de comprar chips 555 a solo $250 me di cuenta que el error no era tan grave y fue parte importante del proceso, puesto que conocí nuevos componentes que me llamaron la atención y de los cuales investigaré más adelante. Ahora dejaré por escrito los lugares y ubicaciones visitadas para tener registro para posterior.
+
+1. Electrónica Ibarra: San Diego 920, Santiago 
+2. Electrónica Hobby: San Diego 962, Santiago 
+3. Electrónica Orfali: San Diego 955, Santiago
+4. Electrónica Casa York: San Diego 958 Santiago 
+
+![Mapa con Ubicaciones en mapa](./imagenes/3.png)
+
+<br>
+
+#### Fotos compra ####
+
+![Foto compra](./imagenes/foto-compra1.jpg)
+
+![Foto compra](./imagenes/foto-compra2.jpg)
+
+![Foto compra](./imagenes/foto-compra3.jpg)
+
+![Foto compra](./imagenes/foto-compra4.jpg)
+
+![Foto compra](./imagenes/foto-compra5.jpg)
 
 ---
 
