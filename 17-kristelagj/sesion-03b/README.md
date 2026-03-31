@@ -19,6 +19,8 @@ En esta clase nos dedicamos más a realizar circuitos, solo me resultó el prime
 
 **Astable:** Un circuito astable es un multivibrador oscilador que no tiene estados estables, alternando continuamente entre un nivel lógico alto ("1") y bajo ("0") sin intervención externa. Genera una onda cuadrada continua, útil como generador de pulsos, reloj para circuitos lógicos o para parpadeo de LEDs (circuito que esta en constante parpadeo parpadeo. Puedes cambiar su frecuencia con los condensadores)
 
+https://es.wikipedia.org/wiki/Astable#:~:text=En%20electr%C3%B3nica%2C%20un%20astable%20es,de%20ellos%20un%20tiempo%20determinado.
+
 **Monoestable:** tiene un estado estable y otro estado transitorio. En su estado estable, está en reposo y tiene un nivel de salida específico "apagado". Cuando se recibe una señal de activación apropiada, el monoestable cambia a su estado transitorio durante un tiempo específico y luego regresa automáticamente a su estado estable. El tiempo durante el cual el monoestable permanece en su estado transitorio está determinado por los componentes del circuito o la programación del equipo que lo controle. Los monoestables se utilizan en diversas aplicaciones, como generadores de pulsos, temporizadores y circuitos de retardo. (circuito que esta apagado y cuando uno prende la luz,vuelve por si solo a su estado estable)
 
 https://tecnosinergia.zendesk.com/hc/es/articles/16693654927771-Conoce-las-diferencias-entre-un-circuito-monoestable-y-uno-biestable#:~:text=Es%20un%20circuito%20que%20tiene,temporizadores%20y%20circuitos%20de%20retardo. 
