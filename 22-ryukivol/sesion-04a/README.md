@@ -22,4 +22,5 @@
 - escape para volver
 
 ### Pins 555 
+![nombrespins555](/imagen/555-timer-tutorial-fig2.webp)
 
