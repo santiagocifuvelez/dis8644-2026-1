@@ -21,6 +21,8 @@ Se modifica cambiando resistencias o potenciómetro.
 Potenciómetro en el circuito:
 Permite variar la velocidad de oscilación → cambia el sonido (pitch).
 
+![con potenciómetro](./imagenes/circuitopotenciometro.jpg)
+
 Output del 555 (pin 3): Entrega señal cuadrada (alto/bajo).
 
 Parlante: Convierte señal eléctrica en sonido.
@@ -35,6 +37,8 @@ Menor frecuencia → sonido más grave
 - Capacitor → define duración del ciclo
 - Potenciómetro → control manual
 - 555 → genera señal
+
+![circuito con parlante](./imagenes/circuitoconparlante.jpg)
 
 ### Encargo
 

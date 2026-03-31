@@ -42,3 +42,5 @@ Monostable mode:
 
 Circuito generador de sonido basado en 2 chips 555.
 
+![Atari Punk armado](./imagenes/ataripunk.jpg)
+
