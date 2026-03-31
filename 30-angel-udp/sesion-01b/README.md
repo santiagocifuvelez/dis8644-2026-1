@@ -34,7 +34,7 @@ Know-How, Know-What: Historia
 
 ## **Palabras asociadas:**
 
-Resistencia, Flujo, Potencial, Corriente, Diferencia, Poder, Energpia, Conducir, Materia: Carbón/silicio/cobre
+Resistencia, Flujo, Potencial, Corriente, Diferencia, Poder, Energía, Conducir, Materia: Carbón/silicio/cobre
 
 ---
 
