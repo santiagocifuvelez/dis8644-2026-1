@@ -21,6 +21,29 @@ Como los resistores son muy pequeños para escribir números en ellos, se usan b
 + La tercera es el multiplicador (cuántos ceros agregas).
 + La cuarta (usualmente dorada) es la tolerancia (qué tan preciso es el valor).
 
+![presentacion actual](./imagenes/apuntes-resistores.jpg)  
+
+### Circuitos 
+**1. Circuito básico**
++ Fuente: Una batería de 9V
++ Resistor de 1k: Actúa como el "regulador de velocidad" para la electricidad.
++ LED: El componente que se ilumina.
++ Cables: Los caminos (cables dupond).
+
+**2. Circuito en Serie**
+
+En un circuito en serie, los componentes se conectan uno tras otro, como los eslabones de una cadena. Hay un solo camino para la corriente.
++ Corriente: Es la misma en todos los componentes.
++ Voltaje: Se reparte entre los componentes. Si una luz se quema, el circuito se abre y nada funciona.
++ Resistencia Total: Se suma directamente ($R_T = R_1 + R_2$).
+
+**2. Circuito en Paralelo**
+
+Aquí, los componentes se conectan a los mismos dos puntos comunes. La corriente tiene varios caminos para f
++ Corriente: Se divide entre las rama
++ Voltaje: Es el mismo para todos los componentes (todos reciben el voltaje total de la fuente).
++ Independencia: Si un componente falla, los demás siguen funcionando. Es como las luces de una casa.
++ Resistencia Total: Disminuye al agregar más ramas ($1/R_T = 1/R_1 + 1/R_2$).
 
 
 ---
