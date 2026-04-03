@@ -79,8 +79,8 @@ Influenciado por el budismo zen y la filosofía oriental, Cage concebía la mús
 
 fuentes: [John Cage Trust](https://johncage.org/), [John Cage - Percussive Arts Society](https://pas.org/john-cage/) 
 
-**John Cage 4’33** <https://www.youtube.com/watch?v=TOgrWX5_dS4>
-*”Everything we do is music”*
+**John Cage 4’33** [*”Everything we do is music”*]<https://www.youtube.com/watch?v=TOgrWX5_dS4>
+
 
 **Comentario que rescaté del video (@Warlesc):**
 > Se dice comúnmente que John Cage introduce la noción de silencio, pero en realidad este silencio en la interpretación, fomenta la escucha atenta por parte de los espectadores, de los micro acontecimientos sonoros que se producen en la sala durante 4'33'' que dura el concierto. Cage es el introductor de la escucha activa, influenciado por las enseñanzas de las filosofías orientales propuestas por el maestro Zen D.T. Suzuki. Su silencio amplía la percepción sonora y **cambia el foco de atención de la música occidental hacia los sonidos no intencionados**.
