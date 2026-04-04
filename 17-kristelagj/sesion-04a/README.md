@@ -9,9 +9,14 @@ Se nos mencionó que tenemos 1 semana para poder rellenar después de dados los 
 
 ### clase
 
-A partir de las sugerencias, vimos algunas cosas un poco más lento como el circuito astable y monoestable que hemos visto (falta el biestable)  
-
 - Misaa
+
+A Partir de las sugerencias, vimos algunas cosas un poco más lento como el circuito astable y monoestable que hemos visto (falta el biestable)  
+
+(foto)
+
+Misaa nos comentó que el ejercicio que vimos la semana pasada era poco académico porque las probabilidades de que fallara eran muy altas, entonces ahora hicimos una variante de esta y nos funcionó (atari punk console)
+
 
 ### imagenes de proceso
 
