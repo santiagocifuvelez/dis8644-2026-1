@@ -200,6 +200,9 @@ J23, J24 (LEFT), J25, J26 (RIGTH) (balancean el output)
 
 desde J1 a J20 siguen conectados previamente hasta CD con L y R.
 
+![atras](imagenes/carcasa-atras.jpeg)
+![2](imagenes/salida-2-parte-trasera.jpeg)
+![1](imagenes/salida-1-parte-trasera.jpeg)
 -------------------------
 
 1. En zonas 2 y 3 hay circuitos integrados de 65448
