@@ -26,6 +26,8 @@ C -> Condensador
 
 <https://www.falstad.com/circuit/>
 
+![Entrañas de un 555](./imagenes/555.webp)
+
 ---
 
 ## Sistema Flip-Flop...En minecraft
@@ -65,9 +67,11 @@ Anteriormente ya puse para que sirven las cosas más fundamentales, pero ¿como 
 
 Por un lado el repetidor funcionara como un diodo, el cual funcionara como un interruptor de "solo un lado" dando energia a un lado y cerrando la energia del otro.
 
-(Insertar imagen)
+![Codigo de colores sobre las resistencias](./imagenes/diodo.png)
 
 Al apretar el boton se conducira la energia al repetidor, el cual se la dara al comparador/repetidor quien almacenara la energia, bloqueando el estado de energia, para luego transmitir la señal al LED dejandolo en un estado de On indefinidamente
+
+![Codigo de colores sobre las resistencias](./imagenes/minecraft-mecanismo.png)
 
 Cabe aclarar 3 cosas
 
@@ -77,9 +81,13 @@ Cabe aclarar 3 cosas
 
 3- El lockeo debe ser en el tercer estado para que sea definitivo, de lo contrario al encender el LED, volvera a su estado original despues de un segundo
 
+![Codigo de colores sobre las resistencias](./imagenes/lockeado.png)
+
 (Para hacer esto usar Java, ya que las anteriores imagenes son sacadas de bedrock y no se puede lockear el condensador)
 
-(Poner imagen)
+![Codigo de colores sobre las resistencias](./imagenes/java.png)
+
+[![Flip-Flop](https://img.youtube.com/vi/iazdlHrPMsw/0.jpg)](https://youtu.be/iazdlHrPMsw)
 
 
 
@@ -91,6 +99,11 @@ AHORA QUE PASA: graciosamente Minecraft implementó un bloque especial para este
 
 Con este y una conexión de redstone ya está el flip flop más compacto...pero es aburrido, por lo tanto se hizo el anterior mecanismo.
 
+PD: 
+
+![Codigo de colores sobre las resistencias](./imagenes/minecraft.jpg)
+
+*Era gracioso ya que tiene sentido*
 
 ---
 
@@ -100,3 +113,50 @@ Destruir algo????
 Buscar basurita electronica
 
 Destripar un objeto electronico "pequeño"
+
+### TAREA 2:
+
+En primer lugar, he podido ver en videos ejemplos de errores que resultan en la peor de las catastrofes...por lo tanto (por mi seguridad y el no hacer basura electronica) no destruire circuitos 
+
+Pero un ejemplo simple es polarizar un condensador (esos de barril) mal...causa una no grata explosión (según lo que converse con el seba, por ello es que se nos dieron condensadores no potentes)
+
+---
+
+Ejem.
+
+El objeto que se utilizara en esta cirugia es "UN TAMAGOTCHI" *Un regalo muy preciado que obviamente reparare una vez termine este experimento*
+
+![Codigo de colores sobre las resistencias](./imagenes/tama.jpg)
+
+El objeto de estudio esta dividido en 3 partes:
+
+- Todo lo que es la carcasa (el estado en lo que todo esta sellado))
+
+![Codigo de colores sobre las resistencias](./imagenes/carcasa.jpg)
+
+- Primer corte: es donde se pueden ver las pilas de reloj
+
+![Codigo de colores sobre las resistencias](./imagenes/pilas.jpg)
+![Codigo de colores sobre las resistencias](./imagenes/primera-fase.jpg)
+  
+- Segundo corte: Donde se puede manipular todo el objeto, desde la conexión, la pantalla o lo botones.
+
+  ![Codigo de colores sobre las resistencias](./imagenes/segunda-fase.jpg)
+
+Como se puede apreciar, el circuito para transportar la energia no es la graaaaaaaaaaaaaaaaaaaaaaaaaan cosa.
+
+![Codigo de colores sobre las resistencias](./imagenes/todo.jpg)
+
+Pero lo interesante es como demonios el "programa" puede funcionar si no esta conectado desde ningun cable.
+
+EXPLICACIÓN POETICA!.
+
+Cada uno de nosotres en este mundo hemos querido estar acompañados de una u otra manera, incluso si no es con gente real. Porque claro, socializar implica esfuerzo. Por lo tanto, aquí presento la solución tecnológica saludable (porque ya estoy viendo a alguien pensando en la IA y sus chats bots) para quien quiera un amigo de ceros y unos, que no juzga pero siempre interrumpe, aunque probablemente muera si lo olvidas tres días seguidos... *ejem*
+
+Muy lindo y todo ¿pero cómo funciona? A simple vista es un huevo con una pantalla y 4 botones… pero la verdadera magia sucede dentro~ ¿Por qué? Porque, seamos honestos, ¿quién no se ha preguntado cómo funcionan los amigos por dentro?
+
+¿solo yo? ... ok
+
+En primer lugar sacamos los primeros tornillos para encontrarnos con nuestras hermosas pilas, esas que literalmente hacen andar al pequeñin. ¿Pero qué es esto? Abajo hay un círculo igual de plateado y brillante, pero conectado (con una soldadura muy paupérrima). Por si ustedes no lo saben, es un conectador de amistad, porque todo en el pequeño Tamagotchi depende de conexiones básicas… bastante más simples que las humanas, curiosamente. El círculo del centro es la energía positiva y lo que lo rodea es la negativa, como lo haría *una pila o una persona*, y ambas energías van conectadas a nuestra placa central donde sucede el pensamiento: un cerebro diminuto que maneja necesidades, gustos, energía, y un pequeño círculo negro bastante sospechoso que hace de “neurona”. Básicamente, todo lo necesario para simular afecto…!
+
+Esta neurona se conecta con la pantalla principal en donde veremos al amigo y sus botones, los cuales se impulsan a la placa para dar la señal de nuestra accion y con ello cuidar con todo el amor que 4 botones pueden dar, a nuestro mejor amigo para siempre (hasta que se le acaben las pilas)
