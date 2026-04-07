@@ -153,8 +153,13 @@ Nodo es una unión donde la corriente puede dividirse o fusionarse. Los cables p
 
  → La ausencia de nodo significa que 2 cables separados solo están pasando
 
-
 https://cursos.mcielectronics.cl/2019/06/18/como-leer-un-esquematico/
 https://anitocircuits.com/how-to-read-a-schematic-circuit-diagram/
+ 
+ -------
+
+Opinión y análisis de " Variaciones Espectrales"
+
+
 
 
