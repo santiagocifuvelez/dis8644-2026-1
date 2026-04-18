@@ -59,4 +59,3 @@ Ahora vamos a profundizar un poco más con unos ejemplos explicados en clase.
 ![OR](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/img4.png)
 
 
-
