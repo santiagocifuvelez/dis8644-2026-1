@@ -99,7 +99,7 @@ Esto es un sistema de **8 bits**: Cada columna (B3, B2, B1, B0) es un “interru
 | 2^1 | B1  | 2 |
 | 2^0 | B0  | 1 |
 
-Entonces, se suman los valores que tienen **1**(prendido).
+--> Entonces, se suman los valores que tienen **1**(prendido).
 
 Resumen de Equivalencias  
 00000000 = 0  
@@ -118,9 +118,11 @@ Puede prender y apagar una salida automáticamente según un tiempo definido con
 **Voltaje de alimentación (VCC)**: entre 4.5V y 16V
 
 ![bitacora-05-b](./imagenes/signetics-ne555n.jpeg)  
+
 Fuente: Circuito Integrado 555 ([Wikipedia](https://es.wikipedia.org/wiki/Circuito_integrado_555))
 
 ![bitacora-05-b](./imagenes/esquema-integrado-555-borrador-principal.png)  
+
 Fuente: *Máquinas sonoras, electrónicas y computacionales - Estrategias y recetas* (Aarón Moraga, Matías Serrano)
 
 # NE555 — Patitas y funciones
@@ -146,9 +148,10 @@ Usos: luces, pasos, sonidos.
 Convierte una señal analogica ruidosa en una limpia, como si las ondas oscilantes se convirtieran en "cuadradas".
 
 ![bitacora-05-b](./imagenes/cd4017-bitacora-05-b-antoniaamc.png)  
+
 🕷️🕷️ Fuente: [Technology Ariat](https://www.ariat-tech.es/blog/a-deep-dive-into-the-working-principles-and-applications-of-the-ic-4017.html)
 
-![bitacora-05-b](./imagenes/circuito-intgrado-4017-borrador-principal.png)
+![bitacora-05-b](./imagenes/circuito-intgrado-4017-borrador-principal.jpg)
 
 # CD4017 — Patitas y funciones
 
