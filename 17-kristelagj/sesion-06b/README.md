@@ -35,5 +35,22 @@ Después de toda esta explicación, comenzamos a realizar la fe de erratas junto
 
 ### post-clase
 
+En la clase Misaa había hablado sobre su segundo álbum y que tenía solo un fan, bueno ahora tiene dos. Es ese álbum que llega justo para cuando lo necesitas. Me dio mucha calma poder escucharlo y es perfecto cuando necesitas leer o concentrarte. “
+minor planets” es un albumanso, mi canción favorita es expect delays ya que te atrapa con ese sonido algo ahogado que aparece en casi toda la pieza. Realmente muy bueno! recomendado.
+
+Siguiente con “Precaria” (así se llama nuestro sintetizador), uno de nuestros problemas de porque no funcionaba es que todavía teníamos las luces y resistencias en el 4017 (secuenciador) 
+
+Nos tuvimos que movilizar al MUT para realizar nuestro trabajo ya que a Santi no lo dejaron pasar en la universidad y fue bien interesante, ya que por un lado él conocía ese lugar y la reacción de las personas. Muchas se nos quedaban viendo, una nos preguntó que estudiamos y cuando respondimos que diseño gráfico se sorprendió. Peso que responderemos informática o robótica. Es más, hasta el guardia de la tienda que estaba enfrente salió a preguntar qué estaba pasando y que sonaba así.  Fue un experimento social interesante, pero nadie nos miró reacio o nos fueron a callar. 
+
+https://github.com/user-attachments/assets/ce94da03-1912-4ed0-80ac-66c90f4f7105
+
+https://github.com/user-attachments/assets/f6e760ce-8517-45a6-bcea-ec93ab60e47b
+
+https://github.com/user-attachments/assets/53d95cc2-40cb-4d13-ba21-5bd834a8adc6
+
+https://github.com/user-attachments/assets/9ca4d265-721a-4739-8edf-e039b34f1a7c
+
+https://github.com/user-attachments/assets/47288822-ce7b-4f74-9769-9a2c44d3d72a
+
 
 
