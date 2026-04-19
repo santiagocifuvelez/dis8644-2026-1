@@ -14,3 +14,6 @@ apuntes que tome al llegar
 ![imagenes](./imagenes/cuatro-steps-arreglado.jpg)
 
 fue increiblemente frustrante hacer este circuito, nos costó horas lograr que sonaara pero a eso de las cuatro de la tarde sonamos!!
+
+## nada es imposible ni una h***
+
