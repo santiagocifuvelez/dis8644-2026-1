@@ -1,3 +1,4 @@
+
 # sesion-05a
 
 Las señales binarias son la forma más básica de representar información en electrónica digital.
@@ -113,10 +114,18 @@ Pin 11 → Salida
 
 (El LM386 es un chip que sirve para amplificar sonido)
 
+1.
+
 ![foto](./imagenes/1ejercicio.png)
 
-SUBIR VIDEO EJERCICIO
+https://github.com/user-attachments/assets/7972a218-3298-45f0-bc73-7c43239d7af1
+
+2.
 
 ![foto](./imagenes/2ejercicio.png)
 
-SUBIR VIDEO EJERCICIO
+https://github.com/user-attachments/assets/e290eba7-55d4-4366-a099-6e7fa46869db
+
+Video extra porque el sonido que emitía nos recordaba a Poker Face de Lady Gaga ヾ(´〇`)ﾉ🎙️✮⋆˙
+
+https://github.com/user-attachments/assets/f3506c61-66a7-4dbe-b8a6-f8025571b7f6
