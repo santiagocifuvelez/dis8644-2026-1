@@ -120,6 +120,7 @@ Sin histéresis:
 - CD4017 → secuencia digital
 
 ## ejercicio en clases 
+Bueno, el circuito no nos funcionó completamente. Solo logramos que encendieran las luces en las dos primeras partes del circuito; el resto no funcionó en absoluto.
 ![sesion06a](./imagenes/sesion06a.jpeg)
 ![sesion06aa](./imagenes/sesion06aa.jpeg)
 
