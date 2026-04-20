@@ -1,114 +1,83 @@
-# sesion-04b
+# sesion-05a
 
-## Clase 07-04-2026
+## Clase 10-04-2026
 
 ### Apuntes de la clase
 
-En esta clase se comenzó a trabajar con herramientas digitales para la creación de sonido, específicamente con VCV Rack, que permite simular sintetizadores modulares de forma virtual.
+En esta clase se comenzó a trabajar con la idea de interfaz y experiencia de usuario (UX), aplicándola a los circuitos electrónicos que hemos estado desarrollando.
 
-Se explicó cómo funcionan los sintetizadores tipo Eurorack y cómo se pueden replicar de manera digital sin necesidad de tener el hardware físico.
+Se planteó que los circuitos no solo deben funcionar, sino también tener una forma de interacción clara, por ejemplo mediante perillas, botones o movimientos.
 
-### Introducción a sintetizadores
+### Interfaz y UX
 
-Se mencionaron distintas formas de construir sintetizadores:
+Se habló sobre cómo interactuamos con los dispositivos:
 
-- Eurorack (modular)  
-- Moog Unit  
+- Push (presionar)  
+- Turn (girar)  
+- Move (mover)  
 
-También se explicó el flujo básico del sonido en un sintetizador:
+La idea es que el usuario pueda entender fácilmente cómo usar el dispositivo.
 
-Voltaje → Oscilador → Filtro → VCA → Salida (parlante)
+También se mencionó el concepto de “campo de sentido”, relacionado con la estética (aesthetic), es decir, cómo se percibe y se entiende un objeto más allá de su funcionamiento técnico.
 
-### VCV Rack
+### Propuesta de interfaz
 
-Se utilizó el programa VCV Rack:
+Se propuso construir una interfaz física utilizando cartón:
 
-- Permite crear sintetizadores virtuales  
-- Se pueden agregar módulos haciendo click derecho  
-- Tiene entradas y salidas que se conectan mediante cables virtuales  
+- Una caja con perillas o controles  
+- Otra sección donde esté el parlante  
+- El objetivo es que el dispositivo emita sonido y sea manipulable  
 
-Algunos módulos tienen distintos tipos de conexión:
-- Entrada (input)  
-- Salida (output)  
+Esto busca integrar lo técnico con lo visual y lo interactivo.
 
-Cuando una señal pasa, se activa una compuerta (gate).
+### Uso del chip 555 y CD4093
 
-### Tipos de módulos
+Se continuó trabajando con el chip 555 en modo astable.
 
-**VCO (Oscilador controlado por voltaje):**
-- Genera sonido  
-- Se puede controlar su frecuencia  
+También se mencionó el uso del chip CD4093:
+- Se debe conectar la pata 14 a positivo (VCC)  
+- Se debe conectar la pata 7 a negativo (GND)  
 
-Tipos de ondas:
-- Seno (Sin)  
-- Triangular (Tri)  
-- Sierra (Saw)  
-- Cuadrada (Square)  
+### Contador de década (chip 4017)
 
-Cada una tiene un sonido distinto.
+Se introdujo el chip 4017:
 
-**LFO (Low Frequency Oscillator):**
-- Oscilador de baja frecuencia  
-- Se usa para modular otros parámetros  
+- Tiene 16 patas  
+- Funciona como contador de década  
+- Cuenta de 0 a 9 (10 estados distintos)  
 
-**VCA (Amplificador controlado por voltaje):**
-- Controla el volumen  
-- Permite subir o bajar la intensidad del sonido  
+Este chip permite activar salidas de forma secuencial.
 
-**VCF (Filtro):**
-- Modifica el sonido  
-- Permite dejar pasar ciertas frecuencias  
+### Circuito realizado
 
-### Conceptos digitales
+Se trabajó en un circuito que combina:
 
-Se introdujo la lógica digital basada en el álgebra de Boole:
+- Chip 555 (genera pulsos)  
+- Chip 4017 (cuenta y distribuye la señal)  
 
-- 1 = encendido (9V)  
-- 0 = apagado (tierra)  
+El resultado fue:
 
-Compuertas lógicas:
+- Encendido secuencial de 4 LEDs  
+- Control de velocidad mediante potenciómetro  
 
-- AND: solo funciona si ambas entradas están activas  
-- OR: funciona si al menos una entrada está activa  
-- NOT: invierte la señal  
-- NAND: contrario de AND  
+Durante el desarrollo:
 
-También se mencionó el concepto de clock (CLK), que funciona como temporizador.
+- Se presentaron dificultades para conectar correctamente los chips  
+- Fue importante respetar el esquema  
+- Revisar bien la posición de los jumpers  
+- Asegurar que positivos y negativos estén correctamente conectados  
 
-### Chip 4093
+Finalmente, el circuito logró funcionar correctamente.
 
-Se trabajó con el chip 4093:
+### Conceptos importantes
 
-- Utiliza compuertas lógicas tipo NAND  
-- Permite trabajar con señales digitales  
-
-Se usaron resistencias y capacitores para modificar la frecuencia del circuito.
-
-### Observaciones en protoboard
-
-Se detectó que la protoboard tiene líneas internas separadas, por lo que:
-
-- Es necesario unir las líneas de positivo  
-- Es necesario unir las líneas de negativo  
-
-Esto se hace utilizando cables jumper.
-
-### Encargo
-
-Investigar el concepto de Schmitt Trigger.
-
-**Definición:**
-
-Un Schmitt Trigger es un circuito que convierte señales inestables en señales digitales más claras.
-
-- Usa dos niveles de referencia  
-- Evita cambios erráticos en la señal  
-- Genera una salida más estable  
-
-Se utiliza para limpiar señales y mejorar la transición entre señales analógicas y digitales.
+- El chip 555 genera la señal  
+- El chip 4017 distribuye la señal en secuencia  
+- El potenciómetro permite controlar la velocidad  
+- La correcta conexión de los componentes es clave para el funcionamiento  
 
 ### Conclusión
 
-En esta clase se introdujo el uso de sintetizadores digitales y conceptos básicos de lógica electrónica. También se entendió cómo distintos módulos trabajan juntos para generar sonido y cómo se pueden controlar mediante voltaje.
+En esta clase se integró el concepto de interfaz con los circuitos electrónicos, entendiendo que no solo importa el funcionamiento, sino también cómo el usuario interactúa con el sistema.
 
-Además, se reforzó la importancia de la conexión correcta en la protoboard y el uso de componentes para modificar el comportamiento del circuito.
+Además, se aprendió a utilizar el chip 4017 junto al 555 para generar secuencias, lo que permite crear circuitos más dinámicos e interactivos.
