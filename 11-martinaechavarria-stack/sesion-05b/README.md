@@ -18,6 +18,6 @@ En la clase hicimos el circuito secuenciador musical con el chip 4017 y nes555. 
 ## musical timer con chip 555 y 4017
 
 
-![Esquema Circuito](./imagenes/captura-de-pantalla-2026-04-10-a-las-11-49-09.png)
+![Esquema Circuito](./imagenes/circuitoprotoboard)
 
 ![Circuito realizado en protoboard](./imagenes/esquemacircuito5554017)
