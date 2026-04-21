@@ -59,7 +59,7 @@ RITMO Y FRECUENCIA ES LO MISMO
 
 1 significa nivel alto (HIGH) y 0 nivel bajo (LOW). Tambien podria ser 1 es que se entrega voltaje y 0 no se entrega voltaje, osea inactivo. 
 
-![compuertas](imagenes/compuertas-logicas.jpg)
+![compuertas](imagenes/compuertas-logicas.png)
 
 
 ### imagenes de proceso
