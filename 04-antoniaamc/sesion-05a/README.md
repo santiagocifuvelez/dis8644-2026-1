@@ -1,4 +1,5 @@
-# sesion-05a
+# sesion-05a  
+7 de Abril
 
 ### *Sintetizador modular*  
 sonido como sistema
@@ -39,7 +40,8 @@ es el resultado de un **flujo estructurado de electricidad + decisiones lógicas
 - **CD4093 (Oscilador)**
 Circuito integrado de 14 patas que contiene 4 compuertas NAND con *disparador Schmitt (Schmitt Trigger)*. Se usa para generar la señal (sonido).
 
-![bitacora-05-a](./imagenes/cd4093-bitacora-sesion-05-a-antoniaamc.jpg)
+![bitacora-05-a](./imagenes/cd4093-bitacora-sesion-05-a-antoniaamc.jpg)  
+Página con muy buenas explicaciones: [CD4093](https://www.build-electronic-circuits.com/4000-series-integrated-circuits/ic-4093/)
 
 ![bitacora-05-a](./imagenes/circuito-integrado-4093-bitacora-sesion-05-a-antoniaamc.jpg)
 
@@ -124,7 +126,8 @@ La salida es 0 solo cuando ambas entradas son 1.
 - **LM386 / JRC386**
   Circuito integrado que consiste en un amplificador que requiere bajo voltaje, tanto en la entrada de audio como en la alimentación (hace audible la señal).
  
-![bitacora-05-a](./imagenes/lm386-bitacora-sesion-05-a-antoniaamc.jpg)
+![bitacora-05-a](./imagenes/lm386-bitacora-sesion-05-a-antoniaamc.jpg)  
+Fuente: [Link](https://www.electrosmash.com/es/analisis-lm386)
 
 ## Tabla de Pines (Amplificador de Audio)
 
@@ -248,7 +251,19 @@ Diseñar un sintetizador implica definir:
 - Modulación -> transforma  
 - Schmitt Trigger -> estabiliza  
 - Amplificador -> hace audible  
-- Error -> aporta carácter  
+- Error -> aporta carácter
+
+## Bibliografía
+
+- Colaboradores de Wikipedia. (2025, 25 de diciembre). *VCV Rack*. Wikipedia, la enciclopedia libre.  
+  https://en.wikipedia.org/wiki/VCV_Rack
+
+- Colaboradores de Wikipedia. (2020, 2 de agosto). *LM386*. Wikipedia, la enciclopedia libre.  
+  https://es.wikipedia.org/wiki/LM386
+
+- Build Electronic Circuits. (2023, 3 de enero). *CD4093 – Circuito integrado con cuatro compuertas NAND con Schmitt Trigger*.  
+  https://www.build-electronic-circuits.com/4000-series-integrated-circuits/ic-4093/
+
 
 
 
