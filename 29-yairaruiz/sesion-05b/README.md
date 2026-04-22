@@ -4,6 +4,8 @@
 
 ### Chip 4017 ###
 
+![4017](./imagenes/4017.jpg/)
+
 El 4017 es un circuito integrado CMOS de 16 pines que funciona como contador decimal (de 0 a 9).
 
 + Tiene 10 salidas (Q0 a Q9).
