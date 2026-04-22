@@ -2,9 +2,9 @@
 
 ## integrantes
 
-- Santiago Cifuentes github
-- Paula Fuentes github
-- Kristel Ladrón de Guevara github
+- Santiago Cifuentes (santiagocifuvelez)
+- Paula Fuentes (paulafuentesm)
+- Kristel Ladrón de Guevara (kristelagj)
 
 ## descripción del sintetizador realizado
 
