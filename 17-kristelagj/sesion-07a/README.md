@@ -36,6 +36,9 @@ Se suponía que teníamos el sintetizador listo, pero un cable suelto nos hizo d
 
 Nos frustramos y como menciona, lo haremos de nuevo, lo cual nos retrasó en ciertas cosas como la carcasa, pero bueno, todo esto es por algo y no quiero adelantar proceso. Me dará ansiedad, si. 
 
+Un punto muy importante a mencionar y algo que mencionaremos en nuestro informe es la disposición de nuestros compañeros en ayudar. La semana pasada muy amablemente Anto, Vania y Nico nos ayudaron con nuestro circuito y ahora Cami nos ha ayudado con las perillas que utilizaremos en nuestro sintetizador. Elle ha sido un punto importante en nuestro trabajo, sintiendo su presencia se siente agradable estar trabajando en clases. 
+
+
 https://github.com/user-attachments/assets/f6a878d9-8f7b-4323-9d94-7d768596e73b
 
 
