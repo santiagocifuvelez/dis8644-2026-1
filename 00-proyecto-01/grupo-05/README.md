@@ -6,7 +6,7 @@
 - Sebastián Guevara  sebastianguevaralarotta
 - Luisa Toro         Luisaatoro9
 
-## Descripción del sintetizador realizado
+## Descripción del sintetizador realizado OPEN-BEAT KRAFT
 
 Este proyecto consiste en un sintetizador rítmico de 4 notas basado en una arquitectura modular que combina generación de pulsos y modulación de sonido. El corazón del ritmo es un temporizador NE555 configurado para enviar una señal de reloj a un contador decimal CD4017, el cual secuencia las 4 notas de forma sucesiva. Para visualizar el funcionamiento en tiempo real, incluimos una interfaz de LEDs que indican tanto la velocidad del pulso (desde el pin 3 del 555) como la nota activa en la secuencia, permitiendo un control visual del tempo.
 
