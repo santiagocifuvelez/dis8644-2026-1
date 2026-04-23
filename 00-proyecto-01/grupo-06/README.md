@@ -51,7 +51,7 @@ incluir texto e imágenes sobre cableado, pruebas, resultados obtenidos.
 
 ## modificaciones realizadas a los circuitos originales
 
-Esquemático modificado:
+Esquemático modificado:  
 (https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/00-proyecto-01/grupo-06/imagenes/esquematico-modificado.pdf)
 
 incluir texto, imágenes sobre modificaciones realizadas a los circuitos originales, incluyendo el proceso de diseño, pruebas y resultados obtenidos.
