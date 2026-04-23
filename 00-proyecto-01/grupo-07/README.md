@@ -56,6 +56,8 @@ Después de realizar múltiples pruebas, hicimos funcionar el circuito guiándon
 ![Esquematicos](./imagenes/esquematico4093-386.png)
 ![Resultados](./imagenes/img4093-386.jpeg)
 
+https://github.com/user-attachments/assets/c10bf689-e483-499d-9074-67d86d5d98a5
+
 ## modificaciones realizadas a los circuitos originales
 
 Se realizaron primeras pruebas y cambios de capacitores de forma individual, colocando resistencias en los LED para activar solo el STEP deseado y así poder definir el sonido ideal.
