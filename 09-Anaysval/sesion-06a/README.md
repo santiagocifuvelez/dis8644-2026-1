@@ -48,6 +48,8 @@ La clase se centró en avanzar en la primera evaluación, empezando a trabajar e
 
 ![foto](./imagenes/4pasos.png)
 
+### Resultados
+
 ![foto](./imagenes/ola.gif)
 
 ![foto](./imagenes/1foto.jpg)
