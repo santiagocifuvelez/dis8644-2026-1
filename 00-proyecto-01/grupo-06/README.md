@@ -124,9 +124,9 @@ La salida de audio se obtiene desde pin 5. Desde este punto, se conecta el capac
 
 ### Proceso:
 
-Al iniciar el proceso, implementamos el circuito original entregado y modificado por Misa con el fin de validar su funcionamiento base y asegurar que la instalación fuera correcta antes de experimentar. A pesar de enfrentar complicaciones técnicas, como errores de conexión y resistencias quemadas, logramos completar el circuito con el íbamos a trabajar.
+Al iniciar el proceso, implementamos el circuito original entregado y modificado por Misaa con el fin de validar su funcionamiento base y asegurar que la instalación fuera correcta antes de experimentar. A pesar de enfrentar complicaciones técnicas, como errores de conexión y resistencias quemadas, logramos completar el circuito con el íbamos a trabajar.
 
-video santiago en su casa cuando lo arreglo
+video de santi: https://youtube.com/shorts/FAeN6yMwqWY?feature=share
 
 Una vez lista la etapa anterior, procedimos a intervenir el circuito del chip 386 para maximizar la potencia y el tono de la salida de audio. Basándonos en la premisa de que valores menores de capacidad alteran la respuesta en frecuencia, sustituimos los condensadores de 100 uf por unos de 0,46 uf en la etapa de amplificación. Con este ajuste, no funcionaba bien el sistema, así que volvimos a poner el anterior condensador.
 
@@ -134,6 +134,8 @@ Posteriormente, probamos realizar cambios en los condensadores vinculados a los 
 Este ajuste resultó mucho más satisfactorio, ya que proporcionó un sonido notablemente más agudo y potente. Sin embargo, al querer una diversidad de mantener una diversidad de texturas sonoras dentro del mismo sistema, decidimos conservar el primer condensador (de izquierda a derecha) con su valor original de 10 uf, logrando así un contraste dinámico entre los diferentes tonos del sintetizador.
 
 Videos del mut: 
+
+![proceso](imagenes/proceso/mut.jpeg)
 
 1: https://youtube.com/shorts/5PpWNb0iPO0?feature=share
 
@@ -188,6 +190,8 @@ Evidencia de las diferentes fases que paso el proyecto hasta llega a ser “Prec
 ![resultado](imagenes/proceso/proceso-3.jpg)
 ![resultado](imagenes/proceso/proceso-2.jpg)
 ![resultado](imagenes/proceso/proceso-2.jpeg)
+
+video: https://youtube.com/shorts/MB089a_Y4Zo?feature=share
 
 ## aprendizajes y errores
 
