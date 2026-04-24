@@ -50,8 +50,7 @@ Ademas diferentes chips, siendo estos:
 
    ### ¿Que hacen especifcamente en nuestro sintetizador?
 
-  
-- CD4093BE  Este chip es nuectro oscilador que fabrica el sonido utilizando ondas cuadradas, es el que genera el "ruido" base del sintetizador que después mediante los potenciómetros modificando.
+- CD4093BE:  Este chip es nuectro oscilador que fabrica el sonido utilizando ondas cuadradas, es el que genera el "ruido" base del sintetizador que después mediante los potenciómetros modificando.
 - LM386: Como el sonido que sale del primer chip es muy débil, usamos este chip amplificador para darle potencia. Su función es amplificar la señal lo suficiente para que el parlante la pueda reproducir.
 - Resistencias: Las usamos para limitar el paso de la corriente y proteger los componentes, a su vez trabajan junto con los condensadores para definir los rangos de frecuencia del sonido.
 - Potenciómetros: Son las perillas que nos permiten interactuar con el circuito. Generan la instancia de interacción usuario-circuito para generar los diferentes sonidos del sintetizador.

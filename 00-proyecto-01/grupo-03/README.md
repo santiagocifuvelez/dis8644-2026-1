@@ -40,9 +40,21 @@ Las conexiones clave para estos son los “Mix” en el 4093, que salen de la co
 
 ## modificaciones realizadas a los circuitos originales
 
-![LedVerde](./imagenes/LedVerde.jpeg)
+Se realizo una modificación a los potenciómetros y las Led, debido a que estos al estar conectadas directamente a las protoboards limitaban la movilidad y adaptabilidad hacia la carcasa, reduciendo además el espacio que había en las protoboard.
 
-![Potenciometro](./imagenes/Potenciometro.jpeg)
+Se uso estaño para soldar las partes; cabeza de un cable dupont directamente conectada a la parte positiva del Led, y mismo proceso (con un cable diferente) a la pata del lado negativo, conectando cada cable con su respectiva carga (Positivo+ -Negativo).
+
+Ademas se repitió el proceso de soldar con los potenciómetros, en este caso solo se utilizarán también 2 cables, ya que solo utilizaremos la 2 de los 3 pines, el pin 2 (Output) y 3 (GND).
+
+![sintetizador](./imagenes/sintetizador2.jpeg)
+
+![ledverde](./imagenes/ledverde.jpeg)
+
+![potenciometro](./imagenes/potenciometro.jpeg)
+
+![antes](./imagenes/antes.jpeg)
+
+![despues](./imagenes/despues.jpeg)
 
 incluir texto, imágenes sobre modificaciones realizadas a los circuitos originales, incluyendo el proceso de diseño, pruebas y resultados obtenidos.
 
@@ -70,9 +82,13 @@ Los colores de los LEDs utilizados fueron naranja, rojo, verde y blanco. Con el 
 
 Como resultado final para esta primera parte del proyecto, tenemos un sintetizador el cual su circuito esta dentro de una caja de cartón reciclada, en donde en la parte superior lo que primero vemos es el parlante, luego a sus lados dos potenciómetros y por el frente de este parlante tenemos las LEDS que van prendiendose mediante el patrón de sonido que podemos crear. En la parte lateral tenemos 4 potenciómetros, quienes son los responsables de crear el ritmo que deseemos. 
 
-imagen
 
-video / audio
+https://github.com/user-attachments/assets/75483a74-e163-4ad5-8932-8e0045d4af67
+
+
+![imagenresultadofinal](./imagenes/resultadofinal.jpg)
+
+> Imagen y video del resultado final.
 
 ## aprendizajes y errores
 
