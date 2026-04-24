@@ -238,7 +238,7 @@ Mantener el orden en el área de trabajo es fundamental para evitar errores, fac
 
 En la sesión 06b logramos obtener un sonido similar al de un arcade antiguo, lo que nos motivó a tomar esa referencia como objetivo para la entrega final. Sin embargo, durante la sesión 07a, debido a ciertas modificaciones en el circuito, no fue posible recuperar ese sonido inicial. Posteriormente, con la ayuda de Sebastián Sáez en un trabajo posterior a la sesión, logramos encontrar una configuración sonora que nuevamente llamó nuestra atención y se alineó con la propuesta que buscabamos.
 
-[![antiguo](./imagenes/antiguo.jpg)](https://youtube.com/shorts/4vf9a5yF5DE)
+[![antiguo](./imagenes/antiguo.jpg)](https://youtube.com/shorts/yy7ecwrgO0s)
 [![antiguo](./imagenes/antiguo.png)](https://youtube.com/shorts/4vf9a5yF5DE)
 [![final](./imagenes/la-caja1.png)](https://youtube.com/shorts/2OlexzJCbLg?feature=share)
 
