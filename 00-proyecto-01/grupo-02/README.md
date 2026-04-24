@@ -24,7 +24,6 @@ La señal parte en el 555, pasa al 4017 que genera la secuencia, luego el 4093 m
 
 [![Sintetizadorhuesos](https://img.youtube.com/vi/maU7IkI7PQQ/hqdefault.jpg)](https://youtu.be/maU7IkI7PQQ)
 
-
 ## proceso y resultados del reloj y secuenciador
 
 ### Generador de clock (555)
@@ -127,9 +126,13 @@ Además, agregamos un botón de encendido y apagado (ON/OFF). Lo pusimos en la m
 
 Por último, soldamos los potenciómetros a cables para poder alejarlos del circuito y ubicarlos en distintas partes de la estructura.
 
-![Potenciometros soldados](./imagenes/potenciometro_soldado.jpeg)
+### Potenciómetro antes (sin soldar)
 
-![Potenciometros soldados](./imagenes/potenciometros_sin_soldar.jpg)
+![Potenciometros soldados](./imagenes/potenciometros-sin-soldar.jpg)
+
+### Potenciómetro después (soldado)
+
+![Potenciometros soldados](./imagenes/potenciometro-soldado.jpeg)
 
 ## carcasas de cartón
 
@@ -141,17 +144,21 @@ Posteriormente, realizamos un modelado 3D de la caja y la enviamos a corte láse
 
 ![foto](./imagenes/cortelaser.png)
 
+![3d](./imagenes/corte-laser.gif)
+
 La disposición de los componentes se basó en la estructura del circuito, organizándolos de izquierda a derecha, comenzando con el 555 y terminando en el LM386. En cuanto a las decisiones estéticas, definimos que un potenciómetro representara el ojo del pez, mientras que el botón de ON/OFF funcionara como su boca. Las conexiones macho-hembra que unen la cabeza con el cuerpo se hicieron pasar por un pequeño orificio, simulando de cierta manera las tripitas del pez.
 
-En la caja correspondiente al cuerpo se ubicaron los cinco potenciómetros de forma ordenada. Estos se integraron visualmente como parte del diseño del pez, ya que cada uno cuenta con una pequeña cubierta impresa en 3D con forma de escama, lo que ayuda a representar la superficie externa del pez.  Además, ubicamos el parlante cerca de la cola, tanto para respetar el recorrido del circuito como para aprovechar mejor el espacio disponible. Finalmente, incorporamos aletas y cola para reforzar la forma del pez. 
+En la caja correspondiente al cuerpo se ubicaron los cinco potenciómetros de forma ordenada. Estos se integraron visualmente como parte del diseño del pez, ya que cada uno cuenta con una pequeña cubierta impresa en 3D con forma de escama, lo que ayuda a representar la superficie externa del pez.  Además, ubicamos el parlante cerca de la cola, tanto para respetar el recorrido del circuito como para aprovechar mejor el espacio disponible. Finalmente, incorporamos aletas y cola para reforzar la forma del pez.
+
+![3d](./imagenes/impresion-3d.gif)
 
 ### Proceso carcasa
 
-![Caja proceso](./imagenes/proceso_caja.jpg)
+![Caja proceso](./imagenes/proceso-caja.jpg)
 
 ### Carcasa vacía
 
-![Caja sin huesos](./imagenes/caja_sin_huesos.jpeg)
+![Caja sin huesos](./imagenes/caja-sin-huesos.jpeg)
 
 ## interconexión entre módulos
 
@@ -173,8 +180,29 @@ video / audio
 
 ## aprendizajes y errores
 
-las mejores lecciones aprendidas y los errores más comunes y cómo los resolvieron
+- Aprendimos que las luces LED pueden afectar la potencia del sonido en el altavoz.
+
+- A veces las protoboard largas no distribuyen bien la energía en las líneas positiva y negativa, por lo que hay que conectarlas con un cable para extender la alimentación.
+
+- Cambiar los condensadores en el sintetizador hace que el sonido sea más agudo o más grave: a mayor valor (más µF), el sonido es más grave; a menor valor, más agudo.
+
+- Si se cambian los condensadores en el LM386, también cambia el volumen: mientras mayor sea el valor (µF), mayor es el volumen.
+
+- Descubrimos que el potenciómetro tiene una pequeña pieza metálica levantada, esta se llama pestaña anti rotación. Esto evita que todo el cuerpo del potenciómetro gire cuando giras la perilla para ajustar el volumen.
+
+- Nos equivocamos al apresurarnos en dar alguna hipótesis de que algo podría estar mal como por ejemplo, culpar al chip de que estaba muerto, en vez de revisar bien las conexiones que estábamos haciendo.
+
+- Y por último, aprendimos a no ser tan ansiosos y a celebrar nuestros pequeños logros.
 
 ## conclusiones
 
-sobre modularidad, materialidad, trabajo en equipo, trabajo electrónico, trabajo maquinal.
+En este proyecto nos dimos cuenta de que separar el circuito en partes nos ayudó mucho, porque hacía todo más entendible y ordenado. Podíamos enfocarnos en una cosa a la vez y después juntar todo sin tanto enredo, lo que hizo el proceso más manejable.
+
+Al trabajar con cartón como material principal nos costó al inicio pensar en una estética clara, pero gracias a las decisiones del grupo y al uso del corte láser logramos darle una mejor forma al proyecto, haciendo que la estructura quedara más ordenada y con una intención más clara.
+
+La forma de pez dividida en dos partes nos ayudó a organizar mejor los componentes internos y también hizo que el proyecto fuera más llamativo e interactivo.
+Como grupo, fue clave ir conversando todo. Al principio teníamos varias ideas que no nos convencían mucho, pero probando y discutiendo llegamos a un acuerdo. Durante el proceso tuvimos errores, pero entre los tres fuimos resolviendo las cosas y apoyándonos para que funcionara.
+
+En la parte electrónica aprendimos harto haciendo, más que nada a prueba y error. Nos equivocamos varias veces, quemamos componentes, conectamos mal cosas y el sonido no siempre funcionaba como esperábamos. Pero todo eso sirvió para entender mejor cómo funciona el circuito y por qué cada conexión importa. También aprendimos a leer mejor los esquemáticos de los circuitos, lo que nos facilitó su construcción, y a dibujar nuestro propio esquemático.
+
+Finalmente, usar modelado 3D y corte láser hizo que todo se viera más ordenado y que todo encajara mejor. En general, sentimos que el proyecto terminó siendo más completo, porque no era solo un circuito, sino un objeto que funciona y que también tiene una intención en cómo se ve y se usa.
