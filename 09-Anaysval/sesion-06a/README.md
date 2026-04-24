@@ -50,15 +50,19 @@ La clase se centró en avanzar en la primera evaluación, empezando a trabajar e
 
 ### Resultados
 
+![foto](./imagenes/olagif.gif)
+
 ![foto](./imagenes/1foto.jpg)
 
 ![foto](./imagenes/2foto.jpg)
 
 ![foto](./imagenes/3foto.jpg)
 
-Al desarrollar el circuito no tuvimos muchos problemas, lo único fue que nuevamente murieron un par de chips ಥ﹏ಥ
+♪┏(・o･)┛♪ bailecito
 
+https://github.com/user-attachments/assets/27283fc6-fe08-4401-918d-ff88714f4bab
 
+Esta clase no tuvimos muchos problemas al desarrollar el circuito y, en general, todo funcionó bien desde el 555 hasta el LM386. Como no teníamos suficientes potenciómetros, los reemplazamos por un fotoresistor, lo que igual nos permitió que el circuito funcionara correctamente. Lo único malo fue que nuevamente murieron un par de chips ಥ﹏ಥ.
 
 
 
