@@ -145,7 +145,10 @@ Finalmente, para solucionar el problema recurrente de desconexión entre la bate
 
 
 ### Esquemático modificado:  
-(https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/00-proyecto-01/grupo-06/imagenes/esquematico-modificado.pdf)
+
+![4017](https://github.com/paulafuentesm/dis8644-2026-1/blob/1e93ee50ea62ca7833c6da25062508df6a0819f1/00-proyecto-01/grupo-06/imagenes/esquematico-modificado-img.jpg)
+
+PDF: (https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/00-proyecto-01/grupo-06/imagenes/esquematico-modificado.pdf)
 
 incluir texto, imágenes sobre modificaciones realizadas a los circuitos originales, incluyendo el proceso de diseño, pruebas y resultados obtenidos.
 
@@ -153,17 +156,24 @@ incluir modificaciones en posición, chips, parámetros, valores, etc.
 
 ## carcasas de cartón
 
-textos, imágenes
+Como grupo decidimos que las interfaces estuvieran distribuidas por paneles para optimizar el uso. En el frente se ubican los cuatro potenciómetros que modifican el timbre del sonido, mientras que en un costado izquierdo, a la misma altura, se instaló el potenciómetro encargado de modular el volumen general de Precarias.
 
-incluir origen de materiales, decisiones de posiciones de los componentes, decisiones estéticas, pruebas, resultados obtenidos.
+Finalmente, en la parte superior, la sección que representó el mayor desafío técnico,ya que, los cables chocaban entre tornados al interior o la carcasa del parlante retumbaba al tener algún scotch, por lo que lo insertamos en el cartón y pegamos a los contados interior el sobrante de cables, se posicionaron el parlante y el fotorreceptor. Esta ubicación estratégica permite que el dispositivo interactúa directamente con los cambios de iluminación ambiental, logrando que el sintetizador se sincronice dinámicamente al captar una luz externa o al percibir el encendido y apagado de las luces de la sala.
 
 ## interconexión entre módulos
 
-textos, imágenes, diagramas de interconexión
+La interconexión técnica fue un desafío ya que era un consten de quemarnos o ver que hayamos hecho todos los pasos, especialmente en la aplicación de soldadura, esto no hizo crear una metodología de colores para el cableado. Este sistema de organización fue clave para guiarnos como equipo, permitiéndonos identificar rápidamente qué cables correspondían a los potenciómetros ( pines 2 y 3) y establecer con claridad qué componentes debían ir soldados para asegurar la estructura del diseño.
+
+El primer componente en ser intervenido fue el parlante, utilizando cables rojos y negros para garantizar una conexión sólida y un sonido estable. 
+
+Para después seguir con los condensadores de 0,47 uf  asociados a los potenciómetros, estandarizando el uso de cables específicos para los pines 2 y 3, siendo estos el mismo color diferente en cada potenciador. Para optimizar el tiempo, dividimos las tareas: mientras unos pelaban los cables de colores y negros, otros aplicaban pasta de soldar y realizaban las uniones. Antes de la instalación final en la protoboard, verificamos cada terminal con un medidor de potencia para asegurar que estuviera bien.
+
+Sin embargo, al finalizar los cuatro potenciómetros, detectamos un fallo en el primero de ellos; aunque las mediciones iniciales eran correctas, no lograba modular la frecuencia en el circuito integrado. Tras realizar pruebas cruzadas con resistencias y baterías, notamos que el potenciómetro estaba defectuoso, por lo que procedimos a reemplazarlo y soldar nuevamente hasta que todo el conjunto estuvo operativo.
+Al final, notamos que teníamos un constante problema con los cables de la batería, los cuales se soltaban con facilidad y generaban que viéramos todo de nuevo al no notar la principio que volvían a soltarse. Decidimos soldar los conectores de la batería directamente al circuito y así tener la seguridad de que estuvieran conectados el día de la solemne.
 
 ## resultados finales
 
-texto
+Evidencia de las diferentes fases que paso el proyecto hasta llega a ser “Precarias”:
 
 imagen
 
@@ -172,6 +182,7 @@ video / audio
 ## aprendizajes y errores
 
 ### Aprendizaje: 
+
 Uno de los mayores logros de este semestre fue el fortalecimiento del trabajo en equipo y la capacidad de pedir ayuda. Al reconocer que no éramos expertos, logramos combinar los conocimientos individuales de cada integrante para crear una fuente colectiva de ayuda mutua en el grupo, nadie era experto y todos estábamos aprendiendo, cuando ya pudimos superar la barrera de la frustración y entender esto, pudimos seguir adelante. Esta sinergia fue la que nos permitió llevar a buen puerto el proyecto del sintetizador, también considerando la buena disposición de los integrantes para invertir tiempo fuera de clases para entender y darnos nuestro tiempo para hacer los circuitos.
 
 En cuanto al avance técnico, nuestra evolución fue notable: pasamos de no saber que era y cuál era el uso de una protoboard a manipular con diferentes chips en módulos para hacer música, aprendiendo desde el inicio de un 555 y como funcionaban en diferentes contextos. Logramos dominar el flujo de energía, desde lo más básico como encender un LED, hasta procesos más complejos como controlar la sensibilidad de los botones para alterar el sonido con salida a un parlante. Entendimos que no nacemos sabiendo, el ahora poder encontrar un error que antes no podíamos ver, era un aprendizaje, poder entender que un error cometido era un aprendizaje para un futuro. 
@@ -184,4 +195,13 @@ Además, sufrimos de una grave falta de estandarización y orden colectivo en el
 
 ## conclusiones
 
-sobre modularidad, materialidad, trabajo en equipo, trabajo electrónico, trabajo maquinal.
+Fue un trabajo complejo, como mencionamos en el punto anterior, el cual tomó mucho tiempo, dedicación y mucho odio-cariño. Poder estar sumergidos en el “estrés” y sentirlo por estar aprendiendo algo nuevo y si, es una frase que seguiremos repitiendo porque de esto hace un mes no sabíamos nada pero ahora sabemos un 1% y estamos orgullosos de ese pequeño paso, quedan varios o ya está el punto de partida para nosotros en el futuro si deseamos seguir explorando. Es por esto que hay muchos puntos que podemos tocar en esta primer entrega:
+
+En cuanto a la modularidad, comprendimos la importancia de los diferentes chip, destacando el que mas sufrió, el chip 555. Al ser el componente más básico y versátil, todos logramos dominar su configuración. Sin embargo, aprendimos por experiencia propia que su aparente sencillez no lo hace menos delicado: es sumamente fácil de quemar si no se manipula con el cuidado necesario, una lección técnica que quedó grabada en nuestro flujo de trabajo.
+
+Respecto al trabajo en equipo, el desempeño fue excelente. Logramos una dinámica equitativa donde cada integrante aportó de manera significativa, manteniendo siempre la disposición para trabajar fuera del horario de clases. La ausencia de conflictos y la capacidad de llegar a consensos de forma ágil y rápida nos consolidó como un grupo cohesionado y eficiente, lo cual fue vital para sacar adelante el sintetizador.
+Sobre el manejo eléctrico y la distribución, implementamos una metodología propia en la protoboard. Establecimos un código de colores específico para los elementos comunes y estandarizamos la comunicación interna para que todos supiéramos qué cables correspondían a cada sección. Esto facilitó el entendimiento del flujo de energía, ayudándonos a prevenir cortocircuitos y asegurando que la conexión entre las distintas placas fuera efectiva.
+
+Originalmente, decidimos asignar un chip por cada protoboard para mantener el orden, aunque tuvimos que adaptar este plan a último minuto tras el fallo de una de las placas. Optamos por usar una placa de mayor tamaño para los últimos dos módulos, pero manteniendo la mecánica de trabajo previa. Este sistema nos permitió mover componentes y comunicarnos con mayor comodidad, demostrando nuestra capacidad de adaptación técnica ante imprevistos.
+
+Finalmente, tras superar los múltiples problemas técnicos que nos obligaron a cranearnos la cabeza constantemente, simplificamos el diseño de la carcasa. Elegimos cartón corrugado para realizar un corte láser preciso, lo que nos permitió integrar los botones impresos en 3D de manera óptima. Esta decisión final no solo cerró el proceso de fabricación, sino que garantizó una mejor experiencia de uso  para nuestro sintetizador.
