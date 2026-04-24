@@ -42,7 +42,7 @@ El sistema se organiza en cuatro etapas, cada una realizada por un circuito inte
 
 ¿Pero qué distingue a Precarias de otros sintetizadores? Precarias consta de dos interfaces interactivas: por un lado, un fotoresistor como control de velocidad, y por otro, potenciómetros, que permiten un control manual más preciso sobre distintos parámetros del sistema.
 
-![sinte](imagenes/listo.jpg)
+![final](imagenes/final-sinte.jpg)
 
 Video 1: https://youtube.com/shorts/EZvZhcw6Tzs?feature=share
 
