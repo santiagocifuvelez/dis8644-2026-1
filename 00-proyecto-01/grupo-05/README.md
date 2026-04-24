@@ -243,6 +243,8 @@ El recorrido principal del sistema se estructura de la siguiente manera:
 5. **Mezcla y salida (LM386)**  
    Las señales se unifican mediante resistencias y se envían a la etapa de amplificación.
 
+<img width="1666" height="944" alt="esquema-electronico-modificado" src="https://github.com/user-attachments/assets/f63f2f68-927d-4d7b-835e-8c6f5776b7ae" />
+
 ---
 
 ### Interconexión física y módulos independientes
