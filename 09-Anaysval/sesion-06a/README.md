@@ -62,7 +62,4 @@ La clase se centró en avanzar en la primera evaluación, empezando a trabajar e
 
 https://github.com/user-attachments/assets/27283fc6-fe08-4401-918d-ff88714f4bab
 
-Esta clase no tuvimos muchos problemas al desarrollar el circuito y, en general, todo funcionó bien desde el 555 hasta el LM386. Como no teníamos suficientes potenciómetros, los reemplazamos por un fotoresistor, lo que igual nos permitió que el circuito funcionara correctamente. Lo único malo fue que nuevamente murieron un par de chips ಥ﹏ಥ.
-
-
-
+Esta clase no tuvimos muchos problemas al desarrollar el circuito y, en general, todo funcionó bien desde el 555 hasta el LM386. Como no teníamos suficientes potenciómetros, reemplazamos uno por un fotoresistor, lo que igual nos permitió que el circuito funcionara correctamente. Lo único malo fue que nuevamente murieron un par de chips ಥ﹏ಥ.
