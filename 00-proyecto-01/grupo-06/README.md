@@ -42,7 +42,11 @@ El sistema se organiza en cuatro etapas, cada una realizada por un circuito inte
 
 ¿Pero qué distingue a Precarias de otros sintetizadores? Precarias incorpora una diversidad de condensadores, los cuales influyen directamente en la variación de las frecuencias y sonido del sintetizador. Además, el dispositivo cuenta con dos interfaces interactivas múltiple: por un lado, un fotoresistor como control de velocidad, y por otro, potenciómetros, que permiten un control manual más preciso sobre distintos parámetros del sistema.
 
-foto y video 
+![sinte](imagenes/listo.jpg)
+
+Video 1: https://youtube.com/shorts/EZvZhcw6Tzs?feature=share
+
+Video 2: https://youtube.com/shorts/NSwSG6KaihU?feature=share
 
 ## proceso y resultados del reloj y secuenciador
 
@@ -78,7 +82,7 @@ Para proteger los componentes, el cátodo de cada LED se conectó al negativo a 
 
 ![4017](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/00-proyecto-01/grupo-06/imagenes/4017.gif)
 
-incluir texto e imágenes sobre cableado, pruebas, resultados obtenidos.
+![prueba](imagenes/proceso/secuenciador-as-an-img.jpeg)
 
 ## proceso y resultados de osciladores y amplificador
 
@@ -115,23 +119,29 @@ La señal proveniente del nodo MIX se dirige a un potenciómetro (100k) para el 
 #### 3. Paso 3: Salida hacia el Parlante
 La salida de audio se obtiene desde pin 5. Desde este punto, se conecta el capacitor (100uF) en serie, el cual va dirigido hacia el parlante (LS1). Para completar el circuito, el terminal restante del parlante se conecta al nodo de tierra (GND). Finalizando con la soldadora de estas conexiones para poder tener una seguridad de conexión. 
 
-imágenes sobre cableado, pruebas, resultados obtenidos.
-
+![proceso](imagenes/proceso/proceso_1.jpeg)
 ## modificaciones realizadas a los circuitos originales
 
 ### Proceso:
 
-Al iniciar el proceso, implementamos el circuito original entregado y modificado por Misa con el fin de validar su funcionamiento base y asegurar que la instalación fuera correcta antes de experimentar. A pesar de enfrentar complicaciones técnicas, como errores de conexión y resistencias quemadas, logramos completar el circuito con el íbamos a trabajar.
+Al iniciar el proceso, implementamos el circuito original entregado y modificado por Misaa con el fin de validar su funcionamiento base y asegurar que la instalación fuera correcta antes de experimentar. A pesar de enfrentar complicaciones técnicas, como errores de conexión y resistencias quemadas, logramos completar el circuito con el íbamos a trabajar.
 
-video santiago en su casa cuando lo arreglo
+video de santi: https://youtube.com/shorts/FAeN6yMwqWY?feature=share
 
 Una vez lista la etapa anterior, procedimos a intervenir el circuito del chip 386 para maximizar la potencia y el tono de la salida de audio. Basándonos en la premisa de que valores menores de capacidad alteran la respuesta en frecuencia, sustituimos los condensadores de 100 uf por unos de 0,46 uf en la etapa de amplificación. Con este ajuste, no funcionaba bien el sistema, así que volvimos a poner el anterior condensador.
 
 Posteriormente, probamos realizar cambios en los condensadores vinculados a los potenciómetros. Al utilizar inicialmente valores elevados (10uf), el volumen no alcanzaba la intensidad deseada y buscábamos una mayor variedad tonal, por lo que decidimos sustituirlos por condensadores de 0,47 uf
 Este ajuste resultó mucho más satisfactorio, ya que proporcionó un sonido notablemente más agudo y potente. Sin embargo, al querer una diversidad de mantener una diversidad de texturas sonoras dentro del mismo sistema, decidimos conservar el primer condensador (de izquierda a derecha) con su valor original de 10 uf, logrando así un contraste dinámico entre los diferentes tonos del sintetizador.
 
+Videos del mut: 
 
-video del mut.
+![proceso](imagenes/proceso/mut.jpeg)
+
+1: https://youtube.com/shorts/5PpWNb0iPO0?feature=share
+
+2: https://youtube.com/shorts/UJPJm3hy5Yk?feature=share
+
+3: https://youtube.com/shorts/5tdJ-7rMd7w?feature=share
 
 Tras completar el ajuste de los condensadores, el siguiente paso fue sustituir el potenciómetro por un fotorreceptor (sensor de luz) del primer módulo para experimentar con nuevas formas de interacción. Este cambio nos gustó más para el proyecto, ya que permitía una modulación dinámica del sistema: al aumentar la intensidad lumínica, el dispositivo generaba un sonido más rápido, mientras que en condiciones de oscuridad la velocidad disminuye. 
 
@@ -150,9 +160,9 @@ Finalmente, para solucionar el problema recurrente de desconexión entre la bate
 
 PDF: (https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/00-proyecto-01/grupo-06/imagenes/esquematico-modificado.pdf)
 
-incluir texto, imágenes sobre modificaciones realizadas a los circuitos originales, incluyendo el proceso de diseño, pruebas y resultados obtenidos.
+video: https://youtube.com/shorts/y3wmMXkBmb8?feature=share
 
-incluir modificaciones en posición, chips, parámetros, valores, etc.
+video 2: https://youtube.com/shorts/o5TqyCJIAiU?feature=share
 
 ## carcasas de cartón
 
@@ -175,9 +185,13 @@ Al final, notamos que teníamos un constante problema con los cables de la bater
 
 Evidencia de las diferentes fases que paso el proyecto hasta llega a ser “Precarias”:
 
-imagen
 
-video / audio
+![resultado](imagenes/proceso/proceso-1.jpg)
+![resultado](imagenes/proceso/proceso-3.jpg)
+![resultado](imagenes/proceso/proceso-2.jpg)
+![resultado](imagenes/proceso/proceso-2.jpeg)
+
+video: https://youtube.com/shorts/MB089a_Y4Zo?feature=share
 
 ## aprendizajes y errores
 
