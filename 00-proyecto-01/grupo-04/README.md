@@ -13,10 +13,11 @@ en nuestro caso, no hicimos variaciones dentro del esquemático que se nos entre
 
 para adaptar los componentes a su carcasa, decidimos alargar los cables dupont usando cables con el sistema plug-jack, logrando así que alcancen una distancia más larga y poder soldar los potenciómetros y el LED a estos para poder ubicarlos en sus lugares correspondientes. en el caso del parlante, que estaba originalmente haciendo contacto con el circuito mediante pinzas caimanes que se unían a cables dupont, los cuales se ubicaban en el lugar que les correspondía dentro de la protoboard, decidimos soldar directamente a cables Dupont para así dejar atrás las pinzas caimán y poder seguir con nuestras vidas.
 
+![imagenes](./imagenes/el-tincado-de-frente.jpeg)
+![imagenes](./imagenes/el-tincado-iso.jpeg)
 
-imagen del sintetizador en su contexto
-
-audio o video del sintetizador en acción
++ adjuntamos video de el tincado funcionando a la perfección: <https://youtu.be/hrRX-CuZbwI>
++ adjuntamos video de el interior de el tincado: <https://youtube.com/shorts/Cf6fAJbL6Gk>
 
 ## proceso y resultados del reloj y secuenciador
 
@@ -36,7 +37,6 @@ el chip 4017 fue el único con el cual no tuvimos problemas, ya que cuando lo co
 
 + adjuntamos link de registro de chip 4017 funcionando: <https://youtu.be/dC0rdd23vHk>
 
-incluir texto e imágenes sobre cableado, pruebas, resultados obtenidos.
 ## proceso y resultados de osciladores y amplificador
 
 ### CD4093 y LM386 
@@ -56,8 +56,6 @@ cuando volvimos al LID, Aarón nos dijo que probáramos los potenciómetros que 
 
 + adjuntamos video de nuestro sintetizador funcionando: <https://youtu.be/AOrCcJQTMjA>
 
-incluir texto e imágenes sobre cableado, pruebas, resultados obtenidos.
-
 ## modificaciones realizadas a los circuitos originales
 
 incluir texto, imágenes sobre modificaciones realizadas a los circuitos originales, incluyendo el proceso de diseño, pruebas y resultados obtenidos.
@@ -66,7 +64,7 @@ incluir modificaciones en posición, chips, parámetros, valores, etc.
 
 ## carcasas de cartón
 
-para la carcasa de nuestro sintetizador, utilizamos cartón corrugado simple, pegamento (uhu) y cinta americana. decidimos diseñar un archivo en rhino para facilitar el trabajo y realizar el corte en láser, esto nos permitió enfocarnos mucho más en el circuito de nuestro proyecto. nos centramos en una estructura simple de forma rectangular, tomando como referente los sintetizadores del laboratorio de interacción digital.
+para la carcasa de nuestro sintetizador, utilizamos cartón corrugado simple, pegamento (uhu), cinta americana y masking-tape azul. decidimos diseñar un archivo en rhino para facilitar el trabajo y realizar el corte en láser, esto nos permitió enfocarnos mucho más en el circuito de nuestro proyecto. nos centramos en una estructura simple de forma rectangular, tomando como referente los sintetizadores del laboratorio de interacción digital.
 
 ### la caja se diagramó por caras:
 + **cara superior:** contiene el sintetizador, el chip **4093** con los cuatro potenciómetros (**B2, B3, B4 y B5**), el clock generator, el chip **555** con el potenciómetro **B1**, un LED y el parlante para la salida de sonido.
@@ -75,8 +73,7 @@ para la carcasa de nuestro sintetizador, utilizamos cartón corrugado simple, pe
 
 ![imagenes](./imagenes/modelo-tincado.jpg)
 
-
-textos, imágenes
+el posicionamiento de cada potenciómetro lo determinamos mediante pruebas con el sintetizador. al estar sin carcasa y con todos los circuitos unidos por los cables, muchas veces se nos dificultó el movimiento de los B100K, así que por esto decidimos dividirlos por cara y que tuvieran suficiente espacio entre ellos para que fuera mucho más cómodo su uso.  además en la cara superior agregamos ranuras para ubicar el parlante. el volumen (B6), lo situamos en la cara delantera, debido a que en nuestro caso es uno de los potenciometros que menos movemos y es por esto que lo aislamos de los demás.
 
 incluir origen de materiales, decisiones de posiciones de los componentes, decisiones estéticas, pruebas, resultados obtenidos.
 
