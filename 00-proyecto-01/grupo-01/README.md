@@ -64,6 +64,20 @@ incluir texto e imágenes sobre cableado, pruebas, resultados obtenidos.
 ![]()
 ![]()
 
+4steps synth
+
++ Nuestro desarrollo: 
+
+Desde el día martes 14 de abril, sesión 6a, desarrollamos el circuito en grupo durante las clases. Reiteradas veces rehicimos y analizamos el circuito pero no logró sonar del modo que debía, este no producía ningún sonido.
+
+En el primer intento la secuencia de luces leds se terminaba la secuencia de prendido y apagado con un reatraso. Para aclarar el circuito de los leds debían  de ser un apagado y encendido espontaneo, lo cuál no nos resultó en nuestro primer intento de desarrollo en la protoboard. Luego pudimos encontrar nuestro error en la protoboard, lo resolvimos y  funcionó con la secuencia y frecuencia adecuada.
+
+Al momento de conectar el clock generator y el sintetizador notábamos que todo iba con los resultado esperados, las luces led se prendían y llegaba el voltaje por todo el conjunto de circuitos. Pero conectando el parlante y esperando a que se produjera el sonido, no sonaba nada más que un leve "cck" por menos de un segundo.
+
+Reordenamos todos los cables por color, cambiamos los chips usados nes555, 4017 y 4093B e incluso cambiamos componentes básicos como la batería debido a una posibilidad de carga baja resultando en un bajo voltaje no suficiente para funcionar y hacer ruido.
+
+Rehicimos y probamos de todo con el circuito en la protoboard pero nunca nos resultó.
+
 
 ## Modificaciones realizadas a los circuitos originales
 
@@ -105,7 +119,34 @@ video / audio
 
 ## Aprendizajes y errores
 
-las mejores lecciones aprendidas y los errores más comunes y cómo los resolvieron
+
+En el proceso de intentar hacer ambos synths, nos encontramos con varios problemas.
+
+En cuanto al 4stepsynth de misaaaaa, nunca logramos hacerlo funcionar correctamente. Las primeras veces nos encontramos en la misma situación que varios de nuestros compañeros, donde todo parecía estar bien conectado, pero claramente algo pasaba ya que el sonido no se manifestaba en el parlante. El 555 y 4017 no fueron problema para nosotros, ya que si funcionaban los 4 steps y el reset, el problema se encontraba en la conexión entre el 4017 y el LM386. Los profesores nos ayudaron viendo el synth buscando lo que podría ser el problema, Aaron nos sugirió usar cables acorde a los colores para que todo esté más ordenado y sea más facil de leer. Volvimos a hacer el synth con cables acorde a las conexiones pero nuevamente algo hicimos mal.
+
+En la siguiente clase, misaaaaa trajo una versión actualizada del synth con mejoras/alteraciones que podrían ayudar a que nos funcionara. Al intentarlo nuevamente, omitimos las luces en el 4017 y cambiamos las resistencias de conexión al LM386 además de añadir condensadores de desacople en cada conexión a VCC. Nuevamente no encontramos la solución a nuestro problema. De igual manera teníamos pensado desde el principio hacer un synth que nos permita hacer ruido (Pink Noise).
+
+En el "brumarcas-ulator" (NANDulator + Big Muff + alteraciones), inicialmente no tuvimos problemas graves. La primera vez que intentamos armar el **NANDulator**, solo teníamos una protoboard pequeña, por lo que se nos hizo imposible armarlo completamente y confundimos los diodos en el esquemático por LEDs. Al saber esto, compramos una protoboard de 830 puntos y sacamos diodos del LID. Con el synth en una protoboard grande, diodos y un LM386 con parlante conectado al NANDulator, conectamos una batería y efectivamente funcionaba. Algo que inicialmente ignoramos es que en uno de los schmitt trigger conectamos los diodos de manera incorrecta (positivo donde debería ser negativo), esto afectó el potenciómetro haciendo que al usarlo no afectará el sonido de grán manera, si cambiaba levemente la frecuencia, pero solo si el resto de los potenciómetros estaban al mínimo. Esto fue corregido en la segunda versión del "brumarcas-ulator". 
+
+En cuanto al "Big Muff", el único problema que nos encontramos fue usar los valores correctos en las resistencias y potenciómetro. La primera vez que añadimos el filtro al NANDulator el efecto funcionaba más como volumen que como EQ (R/C) ya que el potenciómetro era de 10K (En vez de 100K como aparece en el esquemático) y la resistencia (R1) era de 30k (En vez de 39k) Esto lo arreglamos cambiando el potenciómetro por uno de 1M y la R1 por una de 47K. Al hacer estos cambios el filtro suena más como un muffler.
+
+Hicimos funcionar el filtro, pero no sabíamos qué estaba haciendo para que el sonido se atenuará. Buscamos videos explicando esto y logramos entender un poco más. Los filtros en general suelen estar compuestos con resistencias y condensadores y dependiendo del valor en ambos, ciertas frecuencias se ven afectadas. Esto sirve para bajar/aumentar frecuencias altas/bajas.
+
+Un error final que nos afectó en la segunda versión del "brumarcas-ulator" fue al momento de soldar los potenciómetros con cables. La primera vez soldamos cables comunes (No dupont) a los potenciómetros, esto hacía difícil la conexión a la protoboard y los cables se desconectaban con el más mínimo movimiento. Entonces soldamos finales de cables dupont out a los cables ya soldados en los potenciómetros. Este fue un grave error ya que al conectar todo de vuelta nada sonaba. Sacamos los finales dupont y probamos nuevamente pero seguía sin sonar. Claramente pasó algo al soldar y mover la protoboard que contenía el 4093. 
+
+No logramos identificar el problema exacto en esa versión por lo que hicimos una nueva de cero en una nueva protoboard. Esta segunda versión contiene todos los arreglos mencionados anteriormente y efectivamente suena como se suponía.
+
+Más en general, a lo largo de todo el proceso siempre ocurrían los mismos errores que suelen ser simples como:
+- Batería con poca carga
+- Componente quemado
+- Componente equivocado
+- Componentes tocandose cuando no deberían
+- Batería mal conectada
+- No conectando ambas tierras/positivos en distintas protoboard
+- Componentes con polaridad conectados al revez
+- Cables mal organizados
+- Cables mal conectados
+  - Sobretodo en potenciómetros con cables/componentes conectados 1 pin hacia al lado
 
 **NO LOGRAMOS HACER FUNCIONAR EL 4STEPSYNTH COMPLETAMENTE, PERO SI LOGRAMOS EL NANDULATOR, COSTO UNIR EL FILTRO/EFECTO DEL 4093 Y AL AMP, NOS COSTO ENTENDER COMO FUNCIONABA EL FILTRO, LA UNION DE CABLES ETC...**
 ![]()
