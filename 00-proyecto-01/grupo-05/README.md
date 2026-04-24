@@ -88,7 +88,7 @@ En esta etapa, los transistores actúan como interruptores lógicos que seleccio
 * **Colector (Pata Derecha):** Es la vía de salida que lleva la información de control hacia el CD4093 (oscilador de audio). Al activarse el transistor, el colector permite que el circuito del 4093 genere el tono específico asignado a ese paso de la secuencia.
 
 
-## proceso y resultados de osciladores y amplificador
+## Proceso y resultados de osciladores y amplificador
 
 **Etapa 4: Generación de Tonos (Osciladores NAND CD4093)**
 
@@ -114,13 +114,13 @@ Mezcla de Salida: Las salidas de audio de cada nota (Pines 3, 4, 10 y 11) se uni
 
 incluir texto e imágenes sobre cableado, pruebas, resultados obtenidos.
 
-## modificaciones realizadas a los circuitos originales
+## Modificaciones realizadas a los circuitos originales
 
 incluir texto, imágenes sobre modificaciones realizadas a los circuitos originales, incluyendo el proceso de diseño, pruebas y resultados obtenidos.
 
 incluir modificaciones en posición, chips, parámetros, valores, etc.
 
-## carcasas de cartón
+## Carcasas de cartón
 
 La carcasa del sintetizador se desarrolló utilizando **cartón corrugado reciclado**, principalmente por su **disponibilidad, bajo costo y facilidad para hacer pruebas y modificaciones rápidas**. Esto permitió **iterar el diseño** sin depender de procesos más complejos. Al mismo tiempo, el material se mantiene visible como parte del resultado, sin ocultar su condición de **prototipo**.
 
@@ -133,7 +133,7 @@ Responde a una **lógica de uso**: los **controles** se ubicaron en la parte sup
 ![proyecto-01-grupo-05](imagenes/acercamientos-interfaz-cartonproyecto-01-grupo-05.jpg)
 
 ### Proceso  
-El proceso de diseño comenzó revisando *referentes y sintetizadores existentes, para luego definir qué queríamos mostrar y cómo queríamos que funcionara la interfaz. A partir de esto, se realizó un **modelado 3D inicial, considerando la posibilidad de fabricación mediante **corte láser, lo que finalmente no se pudo concretar. En su lugar, se utilizó el modelo como base para generar una **plantilla calcada sobre láminas (A1), que luego se transfirió a **cartón corrugado** para corte y armado manual.
+El proceso de diseño comenzó revisando *referentes y sintetizadores existentes, para luego definir qué queríamos mostrar y cómo queríamos que funcionara la interfaz. A partir de esto, se realizó un **modelado 3D** inicial, considerando la posibilidad de fabricación mediante **corte láser**, lo que finalmente no se pudo concretar. En su lugar, se utilizó el modelo como base para generar una **plantilla calcada sobre láminas (A1)**, que luego se transfirió a **cartón corrugado** para corte y armado manual.
 
 ![proyecto-01-grupo-05](imagenes/plantilla-a1-interfaz-carton-proyecto-01-grupo-05.jpg)
 
@@ -153,7 +153,7 @@ imagen
 
 video / audio
 
-## aprendizajes y errores
+## Aprendizajes y errores
 
 A lo largo del desarrollo del OPEN-BEAT KRAFT, enfrentamos varios desafíos técnicos que nos permitieron profundizar en el funcionamiento de la electrónica analógica y digital. Estos fueron los errores más comunes y cómo los resolvimos:
 1. Estabilidad del Reloj (NE555)
@@ -174,6 +174,6 @@ A lo largo del desarrollo del OPEN-BEAT KRAFT, enfrentamos varios desafíos téc
     La solución: Descubrimos la importancia del Pin 13 (Clock Enable), que debe ir a negativo para que el chip funcione, y del Pin 15 (Reset), que conectamos al Pin 10 para cerrar el ciclo de 4 notas y crear un bucle infinito.
 
 
-## conclusiones
+## Conclusiones
 
 sobre modularidad, materialidad, trabajo en equipo, trabajo electrónico, trabajo maquinal.
