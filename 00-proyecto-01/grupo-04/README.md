@@ -11,6 +11,8 @@ el tincado nace a partir de la práctica y aprendizaje que tuvimos a lo largo de
 
 en nuestro caso, no hicimos variaciones dentro del esquemático que se nos entregó, ya que cuando logramos que funcionara el sintetizador fue gracias a la ayuda de nuestros compañeros Vania y Nicolás, los cuales, luego de escuchar que por fin el trabajo estaba emitiendo sonidos, nos recomendaron cambiar los capacitores que se encuentran dentro del circuito del chip 4093 por unos de 1µF. ya que nosotros los teníamos con capacitores de 10µF  y 100µF, lo cual no lograba hacer sonidos tan notorios como lo es ahora que solo tiene capacitores de 1µF, ya que este permite que circulen los electrones de manera más libre y así es como se logran los sonidos más agudos. a pesar de no tener cambios en los capacitores, sí tenemos cambios notorios en lo que es la parte del chip 555, el cual tuvo una intervención por nuestros compañeros y notamos un cambio en conexiones como lo es en el pin 4 y 8, lo cual desarrollaremos en su propia sección.
 
+para adaptar los componentes a su carcasa, decidimos alargar los cables dupont usando cables con el sistema plug-jack, logrando así que alcancen una distancia más larga y poder soldar los potenciómetros y el LED a estos para poder ubicarlos en sus lugares correspondientes. en el caso del parlante, que estaba originalmente haciendo contacto con el circuito mediante pinzas caimanes que se unían a cables dupont, los cuales se ubicaban en el lugar que les correspondía dentro de la protoboard, decidimos soldar directamente a cables Dupont para así dejar atrás las pinzas caimán y poder seguir con nuestras vidas.
+
 
 imagen del sintetizador en su contexto
 
@@ -18,13 +20,26 @@ audio o video del sintetizador en acción
 
 ## proceso y resultados del reloj y secuenciador
 
-con chips 555 y 4017
+durante las clases no tuvimos problemas con el circuito del 555, pero al momento de hacerlo para el sintetizador modular tuvimos muchas confusiones y errores al momento del cableado. Como, por ejemplo, en un momento no entendíamos por qué el LED no demostraba las oscilaciones que se supone que debían estar sucediendo, hasta que nos dimos cuenta de que nos faltaba conectar el pin 7 a la resistencia de 10k, el cual se conectaba luego al segundo pin. otro problema que tuvimos con este chip fue que en un momento se reflejaba en el LED la velocidad de las oscilaciones que cambiabamos con el potenciómetro, pero en el parlante se seguía escuchando como si tuviera la misma velocidad; por lo que revisamos el circuito y Aarón se percató de que el dupont que hacía la interconexión entre la salida del 555 (pin 3) y la entrada del 4017 (pin 14) estaba conectado en el lado negativo del LED, lo cual no permitía que pasara mucho voltaje como lo haría en el lado positivo del LED.
+
+![video de 555](./imagenes/555-funcionando.gif)
+
+el chip 4017 fue el único con el cual no tuvimos problemas, ya que cuando lo conectamos al 555 para probar si realmente estaba funcionando como secuenciador con los LEDs conectados, funcionó todo a la perfección y fue hermoso.
+
+AÑADIR GIF DEL 4017 FUNCIONANDO JIJI
 
 incluir texto e imágenes sobre cableado, pruebas, resultados obtenidos.
-
 ## proceso y resultados de osciladores y amplificador
 
-con chips 4093 y 386
+con chips 4093 y 386 -BORRAR DESPUES PLIS
+
+con los chips que más tuvimos problemas fueron el 4093 y el 386, ya que al inicio, cuando los armamos por primera vez y los conectamos al parlante para ver si sonaba, no pasó nada. como no entendíamos cuál era el problema, fuimos a buscar ayuda con Misa y nos explicó que deberíamos probar de manera independiente cada chip antes de conectar todo y probar con el parlante, por lo que hicimos exactamente eso. cuando probamos si funcionaba el 386, seguimos el esquemático que hizo Misa en la pizarra y no logramos ver que funcionara, por lo que pedimos ayuda a nuestros compañeros Vania y Nicolás que estaban junto a nosotros en el Laboratorio de Interacción Digital. Vania se acercó a ver nuestros circuitos, pero no pudo quedarse por mucho tiempo ya que tenía cosas que hacer, por lo que Nicolás se quedó con nosotros durante horas rehaciendo todos los circuitos y comparando nuestro trabajo con el de ellos para lograr identificar el problema, hasta que horas después logramos que sonara, pero de manera muy sutil gracias a la magia de nuestro compañero Nicolás, es decir que utilizamos las mismas conexiones que nuestro compañero Nicolás.
+
+AÑADIR VIDEO DEL SINTE FUNCIONANDO DE MANERA DÉBIL LOL
+
+cuando volvimos al LID, Aarón nos dijo que probáramos los potenciómetros que se encontraban en el circuito del chip 4093 de manera independiente, pero no entendimos mucho, así que nuestra compañera Cami nos ayudó a entender cómo se tenían que intercambiar los cables que estaban en cada potenciómetro para poder probar el sonido de cada uno de manera independiente. cuando lo hicimos, nos sorprendió que todos sonaban, pero al momento de conectar todo dejaban de funcionar. como teníamos clases, tuvimos que abandonar el trabajo por unas horas y nuestros compañeros Vania y Nicolás se volvieron a ofrecer para revisar nuestro trabajo, ya que el de ellos ya estaba listo, así que les agradecimos el apoyo y les dejamos nuestro trabajo mientras nosotros estábamos ausentes. cuando volvimos, nuestros compañeros nos informaron que el sintetizador finalmente estaba sonando, pero que tal vez sería buena idea cambiar el valor de los capacitores que teníamos en cada potenciómetro del 4093, ya que teníamos muchos condensadores de alto valor (10 uF, 100 uF) y esto afectaba al sonido que emitía nuestro sintetizador, por lo que decidimos cambiarlos todos a capacitores de 1 uF.
+
+AÑADIR VIDEO DEL SINTE FUNCIONANDO PLIS
 
 incluir texto e imágenes sobre cableado, pruebas, resultados obtenidos.
 
