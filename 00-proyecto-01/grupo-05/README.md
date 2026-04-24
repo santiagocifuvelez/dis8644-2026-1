@@ -19,10 +19,6 @@ La generación del tono se realiza mediante un chip CD4093 (NAND gates), cuyas e
 
 Finalmente, la señal resultante se procesa a través de una etapa de potencia dual compuesta por dos chips LM386, cada uno dedicado a un parlante independiente para evitar la sobrecarga de un solo componente y mejorar la respuesta sonora. El circuito está estabilizado por una batería de 9V con capacitores de filtrado de 100uF a la entrada y salida para reducir el ruido, además de capacitores de 10uF en la etapa de amplificación. El resultado es un instrumento robusto y rítmico con una salida de audio clara y una interfaz táctil y visual intuitiva.
 
-imagen del sintetizador en su contexto
-
-audio o video del sintetizador en acción
-
 --------------------------------------
 
 ## proceso y resultados del reloj y secuenciador
@@ -117,11 +113,11 @@ En esta fase final, utilizamos el integrado CD4093 para convertir las señales d
 
 Mezcla de Salida: Las salidas de audio de cada nota (Pines 3, 4, 10 y 11) se unificaron a través de resistencias de 1kΩ (marrón-negro-rojo) para proteger el circuito y preparar la señal para la etapa de amplificación o salida de audio.
 
+https://github.com/user-attachments/assets/a5ddcd5b-b5ca-4290-a9f5-d321d8b5eed9
 
+https://github.com/user-attachments/assets/7f18e280-71e7-4099-baa8-180db060f60d
 
-
-
-
+https://github.com/user-attachments/assets/cb528754-b904-4f95-8b57-198918ad8c18
 
 -----------------------------------
 
@@ -224,11 +220,9 @@ En conjunto, la carcasa permite *contener el sistema, ordenar la interacción y 
 
 ## interconexión entre módulos
 
-## Interconexión entre módulos
-
 La interconexión del sistema se resolvió a partir de la necesidad de coordinar tres funciones principales: generación de pulso, secuenciación y producción de sonido. Más que módulos aislados, el circuito se organizó como una red continua donde cada etapa depende directamente de la anterior.
 
-![interconexion protoboard](imagenes/interconexion.jpg)
+<img width="6112" height="6112" alt="interconexiones-proyecto-01-grupo-05" src="https://github.com/user-attachments/assets/123ff7bb-e3ce-449a-bb5b-c1603e879dd7" />
 
 ### Flujo de señal
 
@@ -291,11 +285,7 @@ En este sentido, el cableado deja de ser un elemento neutro y pasa a ser parte a
 
 ## resultados finales
 
-## Resultados finales
-
 El sistema logró funcionar de manera estable en sus etapas principales: el generador de pulsos (NE555), el secuenciador (CD4017) y la activación de los osciladores (CD4093) respondieron correctamente, permitiendo una lectura clara del ritmo y la secuencia a través de los LEDs. Sin embargo, la salida de audio no se concretó, ya que los parlantes no lograron emitir sonido. Esta falla se relaciona con la interconexión y reorganización del circuito, donde la señal de salida no llegó correctamente a la etapa de amplificación. A pesar de esto, el comportamiento general del sistema permitió validar su lógica de funcionamiento y la relación entre sus módulos.
-
-https://github.com/user-attachments/assets/050b8553-8a19-471f-b7c5-bad8b6a4def9
 
 ------------------------------------------
 
