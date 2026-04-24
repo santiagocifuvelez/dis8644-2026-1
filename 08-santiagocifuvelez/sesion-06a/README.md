@@ -27,15 +27,16 @@ Como se puede observar anteriormente, tenemos un gráfico con unos umbrales que 
 Omg! This part excites me so much.
 Primeramente, el profesor Aaron y Misa, nos dieron una breve introducción de lo que haría el chip 4017:
 
-https://youtu.be/4uwkeWHWyvI?si=4ms5kG2YXochIlF_
+A-a song:
+[![A-a](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-06a/imagenes/a-a.jpeg)](https://youtu.be/4uwkeWHWyvI?si=jY5oEBBblnH7Rel8)
 
 Ahora miremos el esquemático:   
+
+![esquema](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-06a/imagenes/esquema.png)
+
 Como se puede ver, el instrumento que estamos construyendo para el solemne 01 de Taller de máquinas, consta de 4 chips:   
 - 555 clock.  
 - 4017 secuenciador.  
 - 4093 sintetizador.  
 - 386 amplificador.  
 (Antes de continuar, quiero mencionar que somos 3 personas talentosas en el grupo.).
-
-
-![esquema](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-06a/imagenes/esquema.png)
