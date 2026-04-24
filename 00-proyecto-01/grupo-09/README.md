@@ -220,16 +220,23 @@ Mantener el orden en el área de trabajo es fundamental para evitar errores, fac
 
 ### Errores 
 
-El circuito no sonaba correctamente debido a una conexión errónea del pin 9 del 4017 al voltaje.
-Se quemaron dos chips 555 a causa de conexiones incorrectas.
-Se intentó conectar demasiados componentes a una fuente de bajo voltaje, lo que afectó el funcionamiento general del sistema.
-Se buscó encender cinco LEDs blancos con un voltaje insuficiente, lo que resultó problemático debido a que estos requieren un voltaje mayor al habitual.
-La conexión a los potenciómetros se realizó inicialmente de forma inversa, lo que provocó una fuerte distorsión del sonido y un comportamiento fuera de los tiempos esperados.
-Las resistencias y los LEDs interfieren con el funcionamiento correcto del sintetizador, impidiendo un control adecuado de la señal. 
+* El circuito no sonaba correctamente debido a una conexión errónea del pin 9 del 4017 al voltaje, este pin no debía estar conectado a nada.
+* Se quemaron tres chips 555 a causa de conexiones incorrectas.
+* Se intentó conectar demasiados componentes a una fuente de bajo voltaje, lo que afectó el funcionamiento general del sistema.
+* Se buscó encender cinco LEDs blancos con un voltaje insuficiente, lo que resultó problemático debido a que estos requieren un voltaje mayor al habitual, por lo que se cambiaron por LED´s rojos.
+* La conexión a los potenciómetros se realizó inicialmente de forma inversa, lo que provocó una fuerte distorsión del sonido y un comportamiento fuera de los tiempos esperados.
+* Las resistencias y los LEDs del contador de décadas interfirieron con el funcionamiento correcto del sintetizador, impidiendo un control adecuado de la señal, así que los sacamos.
+* Al principio no sonaba sonido alguno de nuestras conexiones, descubrimos que el potenciómetro conectado a la salida debía estar en una posición específica para sonar.
+
+### Imágenes de proceso y errores
+
+![errrores](./imagenes/errores.jpg)
+![Errores](./imagenes/error.jpg)
+![Errores](./imagenes/reconectando.jpg)
 
 #### Sonido antiguo v/s sonido actual 
 
-En la sesión 06b logramos obtener un sonido similar al de un arcade antiguo, lo que nos motivó a tomar esa referencia como objetivo para la entrega final. Sin embargo, durante la sesión 07a, debido a ciertas modificaciones en el circuito, no fue posible recuperar ese sonido inicial. Posteriormente, con la ayuda de Sebastián Sáez en un trabajo posterior a la sesión, logramos encontrar una configuración sonora que nuevamente llamó nuestra atención y se alineó con la propuesta buscada.
+En la sesión 06b logramos obtener un sonido similar al de un arcade antiguo, lo que nos motivó a tomar esa referencia como objetivo para la entrega final. Sin embargo, durante la sesión 07a, debido a ciertas modificaciones en el circuito, no fue posible recuperar ese sonido inicial. Posteriormente, con la ayuda de Sebastián Sáez en un trabajo posterior a la sesión, logramos encontrar una configuración sonora que nuevamente llamó nuestra atención y se alineó con la propuesta que buscabamos.
 
 [![antiguo](./imagenes/antiguo.jpg)]((https://youtube.com/shorts/4vf9a5yF5DE))
 [![antiguo](./imagenes/antiguo.png)]((https://youtube.com/shorts/4vf9a5yF5DE))
@@ -238,4 +245,3 @@ En la sesión 06b logramos obtener un sonido similar al de un arcade antiguo, lo
 ## Conclusiones
 
 El desarrollo de *La Caja* permitió integrar los aprendizajes técnicos del taller en un objeto funcional que trasciende el armado de un circuito para convertirse en una pieza de diseño exploratorio. El proceso evidenció la importancia de la modularidad, el orden y el trabajo colaborativo para resolver problemas técnicos, así como el uso de una materialidad sencilla y una estética industrial honesta que hace visible su funcionamiento interno. En lo sonoro, el proyecto demostró que una máquina no tiene por qué ser predecible: la iteración y las limitaciones técnicas se transformaron en parte de su identidad. Como percepción final de nuestro trabajo, *La Caja* se manifiesta como **un insecto eléctrico atrapado en un loop, convencido de que si repite el mismo gesto suficientes veces va a encontrar la salida**, un sistema abierto que invita a la curiosidad y a la exploración constante.
-
