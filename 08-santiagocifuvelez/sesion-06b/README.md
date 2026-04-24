@@ -32,6 +32,11 @@ Esquemático formalizado:
 ![Esquématico corregido por el profe misa](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-06b/imagenes/esquematico4pasosnuevo.png)
 
 ## 3.	Trabajo en solemne 01 
+
+En clase, estuvimos revisando que sucedía con el circuito, ya que la bocina sonaba muy distorsionada, y teníamos un problema en el chip 4093 y 386. Estuvimos toda la clase intentando solucionar ese problema, hasta que el equipo de la reina Vania, nos ayudó a organizar mejor los componentes en la protoboard, y claro: Nos dimos cuenta de que no estaban mal, si no que por el orden que tenían en la protoboard, había resistencias tocándose (las patitas metálicas), y había condensadores muy altos para el ejercicio, los cuales habíamos agregado porque queríamos al comienzo, diversos tonos en el sonido.
+
+También en el 386, la organización nos estaba afectando. Así que lección aprendida. Ser más dinámicos y precavidos con la organización de las protoboards.
+
 ## 4.	Trabajo de solemne 01 (Precarias), en el MUT.
 
 ![yo en el metro con precarias en la mano](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-06b/imagenes/subway-mut.jpeg)
