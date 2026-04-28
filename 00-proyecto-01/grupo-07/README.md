@@ -25,6 +25,15 @@ https://github.com/user-attachments/assets/905e3b0a-8652-41ce-81cf-a35a47ac748d
 
 Logramos comprender y ensamblar el circuito de reloj y secuenciador que transforma pulsos eléctricos en un ciclo visual continuo, dividiendo el trabajo en dos etapas principales. Por la parte izquierda del diagrama armamos el generador de reloj utilizando un temporizador 555 configurado en modo astable, el cual emite un pulso constante de voltaje por su pin 3, comprobamos que el ritmo de estos pulsos lo podemos controlar y hacer más rápido o más lento simplemente ajustando el condensador C1 y la perilla del potenciómetro. Luego, conectamos esta señal a la parte derecha del circuito, donde usamos un chip contador de décadas CD4017 como secuenciador. Al hacer que el pulso del 555 entre al pin 14 del 4017, logramos sincronizar ambos componentes: cada latido le indica al 4017 que avance un paso, activando en orden las salidas Q0 a Q3 (pines 3, 2, 4 y 7).  Como resultado final, conseguimos que los 4 LEDs conectados a estas salidas se enciendan uno por uno en fila, creando un ciclo visual infinito!.
 
+
+Código de colores propuesto para facilitar la organización y comprensión del circuito.  
++ Rojo: Utilizado para conexiones a VCC (+9V) 
++ Negro: Utilizado para conexiones hacia GND (tierra) 
++ Naranjo y blanco: Conexiones entre componentes  
++ Gris: Conexiones a potenciómetros 
++ Café: Conexiones a capacitores  
+
+
 **Imagenes del proceso**
 ![Esquematico](./imagenes/esquematico555-4017.png)
 ![Resultados](./imagenes/img555-4017.jpeg)

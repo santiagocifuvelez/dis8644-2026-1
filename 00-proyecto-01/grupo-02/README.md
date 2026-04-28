@@ -1,6 +1,6 @@
 # grupo-02
 
-# Pescado Rabioso
+Pescado Rabioso
 
 ## integrantes
 
@@ -91,7 +91,7 @@ Durante la construcción del 4093 tuvimos un problema que nos frustró, ya que n
 | **4. Tercera compuerta sola** <br> [![V4](https://img.youtube.com/vi/A5t7K00aXuw/hqdefault.jpg)](https://youtu.be/A5t7K00aXuw) | **7. Cuatro compuertas juntas** <br> [![V7](https://img.youtube.com/vi/3BOImSXUMRo/hqdefault.jpg)](https://youtu.be/3BOImSXUMRo) |
 | **6. Cuarta compuerta sola** <br> [![V6](https://img.youtube.com/vi/7IXaFMoQhUE/hqdefault.jpg)](https://youtu.be/7IXaFMoQhUE) | **8. Circuito Completo** <br> [![V8](https://img.youtube.com/vi/_aVlIoXvSJE/hqdefault.jpg)](https://youtu.be/_aVlIoXvSJE) |
 
-Cada una de estas señales se conecta al potenciómetro de volumen, que permite controlar qué tan fuerte se escucha el sonido antes de enviarlo al amplificador. Así, se pueden ajustar y combinar los distintos tonos de forma más simple. 
+Cada una de estas señales se conecta al potenciómetro de volumen, que permite controlar qué tan fuerte se escucha el sonido antes de enviarlo al amplificador. Así, se pueden ajustar y combinar los distintos tonos de forma más simple.
 
 Finalmente, la señal llega al LM386, que es el amplificador de audio del circuito. En este caso no utilizamos los pines 1 y 8, por lo que la ganancia se mantiene en su valor básico. La salida se obtiene a través del pin 5, el cual está conectado a un parlante de 8 ohm, completando así el circuito de sonido. Además, observamos que al cambiar los condensadores del LM386 cambia la intensidad del sonido: con uno de 100 µF el sonido se escuchaba más fuerte y más grave; con uno de 10 µF se escuchaba más bajo y más agudo; y con uno de 1 µF aún más bajo y agudo.
 
@@ -105,15 +105,17 @@ Finalmente, la señal llega al LM386, que es el amplificador de audio del circui
 
 Terminamos usando el condensador de 100 µF  ya que era el que se escuchaba mejor y más fuerte.
 
+<img src="./imagenes/esquema-cuadro.svg" width="1100">
+
 ## modificaciones realizadas a los circuitos originales
 
 Hicimos algunos cambios para que el circuito funcionara mejor. Primero, quitamos los LEDs del 4017, ya que consumían demasiada corriente y hacían que el sonido se escuchara muy bajo. Al sacarlos, el sonido se escuchó más fuerte, también fue necesario quitar sus resistencias.
 
-### 4017 con luces LEDs 
+### 4017 con luces LEDs
 
 ![Intento555y4017](./imagenes/555y4017.gif)
 
-### 4017 sin luces LEDs 
+### 4017 sin luces LEDs
 
 ![4017 sin LEDs](./imagenes/4017sinled.jpg)
 
@@ -133,6 +135,8 @@ Por último, soldamos los potenciómetros a cables para poder alejarlos del circ
 ### Potenciómetro después (soldado)
 
 ![Potenciometros soldados](./imagenes/potenciometro-soldado.jpeg)
+
+![Esquematico](./imagenes/esquematico.jpg)
 
 ## carcasas de cartón
 
@@ -164,11 +168,13 @@ En la caja correspondiente al cuerpo se ubicaron los cinco potenciómetros de fo
 
 Para la conexión entre los distintos módulos se utilizaron cables de colores con el fin de facilitar la organización del circuito. Las conexiones de alimentación positiva se realizaron con cables rojos y naranjos. Las conexiones a tierra (negativo) se identificaron con colores oscuros como negro, café o azul.
 
-El parlante se conectó mediante cables caimán. El botón interruptor no se conecta directamente a la protoboard, sino que se fija mediante su soporte de montaje, y desde ahí se enlaza al circuito mediante cables. La alimentación del sistema se realiza desde una batería: el terminal positivo se conecta directamente al positivo de la protoboard, mientras que el terminal negativo se conecta mediante un cable caimán a un terminal del botón interruptor. El otro terminal del botón se conecta a GND o negativo de la protoboard, permitiendo así el encendido y apagado del circuito mediante su accionamiento. 
+El parlante se conectó mediante cables caimán. El botón interruptor no se conecta directamente a la protoboard, sino que se fija mediante su soporte de montaje, y desde ahí se enlaza al circuito mediante cables. La alimentación del sistema se realiza desde una batería: el terminal positivo se conecta directamente al positivo de la protoboard, mientras que el terminal negativo se conecta mediante un cable caimán a un terminal del botón interruptor. El otro terminal del botón se conecta a GND o negativo de la protoboard, permitiendo así el encendido y apagado del circuito mediante su accionamiento.
 
-Los potenciómetros fueron soldados a cables con el objetivo de poder ubicarlos fuera de la protoboard, lo que facilita su manipulación durante el funcionamiento del circuito. Además, se utilizaron cables macho-hembra para interconectar los distintos módulos, específicamente entre los chips 4017 y 4093, permitiendo separar físicamente los dos módulos del circuito sin afectar su operación. Del mismo modo, este tipo de cables también lo usamos para extender la distancia de los potenciómetros, mejorando la movilidad y el ajuste dentro de la carcasa del proyecto. 
+Los potenciómetros fueron soldados a cables con el objetivo de poder ubicarlos fuera de la protoboard, lo que facilita su manipulación durante el funcionamiento del circuito. Además, se utilizaron cables macho-hembra para interconectar los distintos módulos, específicamente entre los chips 4017 y 4093, permitiendo separar físicamente los dos módulos del circuito sin afectar su operación. Del mismo modo, este tipo de cables también lo usamos para extender la distancia de los potenciómetros, mejorando la movilidad y el ajuste dentro de la carcasa del proyecto.
 
-El sistema se construyó utilizando cables Dupont tanto para el circuito principal como para las interconexiones entre módulos, permitiendo la conexión de los distintos componentes del circuito de forma ordenada y funcional. 
+El sistema se construyó utilizando cables Dupont tanto para el circuito principal como para las interconexiones entre módulos, permitiendo la conexión de los distintos componentes del circuito de forma ordenada y funcional.
+
+![Diagranma de interconexiones](./imagenes/diagrama-de-interconexiones.jpg)
 
 ## resultados finales
 
@@ -216,3 +222,15 @@ Como grupo, fue clave ir conversando todo. Al principio teníamos varias ideas q
 En la parte electrónica aprendimos harto haciendo, más que nada a prueba y error. Nos equivocamos varias veces, quemamos componentes, conectamos mal cosas y el sonido no siempre funcionaba como esperábamos. Pero todo eso sirvió para entender mejor cómo funciona el circuito y por qué cada conexión importa. También aprendimos a leer mejor los esquemáticos de los circuitos, lo que nos facilitó su construcción, y a dibujar nuestro propio esquemático.
 
 Finalmente, usar modelado 3D y corte láser hizo que todo se viera más ordenado y que todo encajara mejor. En general, sentimos que el proyecto terminó siendo más completo, porque no era solo un circuito, sino un objeto que funciona y que también tiene una intención en cómo se ve y se usa.
+
+## bibliografía
+
+<https://www.elprocus.com/555-timer-pin-description-applications/>
+
+<https://www.instructables.com/Know-Your-IC-LM386/>
+
+<https://www.build-electronic-circuits.com/4000-series-integrated-circuits/ic-4093/>
+
+<https://www.build-electronic-circuits.com/4000-series-integrated-circuits/ic-4017/>
+
+<https://boardmix.com/es/knowledge/block-diagram/>

@@ -44,10 +44,11 @@ Para dos resistencias en paralelo, la fórmula simplificada que mencionaste (mul
 * **o´eilly - willey - libros**
 * **Link libros:** https://docs.google.com/document/d/1gTPNpDtJLYWSLITBKJXJEM3XxiRnhSkOY_hltDzEYis/edit?usp=sharing
 * **Link conversión:** https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code
-<img width="340" height="898" alt="Captura de pantalla 2026-03-27 110857" src="https://github.com/user-attachments/assets/b1f4ec71-2f1e-45fd-ab79-70cfeff5ae25" />
-<img width="330" height="934" alt="Captura de pantalla 2026-03-27 111123" src="https://github.com/user-attachments/assets/db52f551-42f6-4eda-a30f-ddb77377c0e2" />
-<img width="330" height="958" alt="Captura de pantalla 2026-03-27 112136" src="https://github.com/user-attachments/assets/fd6c567c-9a92-4e4e-851a-d7175e6af731" />
-
+<div align="center">
+  <img width="300" alt="Captura 1" src="https://github.com/user-attachments/assets/b1f4ec71-2f1e-45fd-ab79-70cfeff5ae25" />
+  <img width="300" alt="Captura 2" src="https://github.com/user-attachments/assets/db52f551-42f6-4eda-a30f-ddb77377c0e2" />
+  <img width="300" alt="Captura 3" src="https://github.com/user-attachments/assets/fd6c567c-9a92-4e4e-851a-d7175e6af731" />
+</div>
 # Datos
 * **Para comprar cosas en barrio San Diego, donde todo se compra presencial. Busquen las direcciones en Google MAPS.**
 * **Electronica Ibarra es la más barata si pagan en efectivo.**
@@ -62,11 +63,13 @@ https://github.com/user-attachments/assets/a6650c78-b97b-4c8c-8c9e-d1963e3b5500
 
 https://github.com/user-attachments/assets/4d6c63b8-cb2f-49a7-9113-e06dd1082fd2
 
-<img width="330" height="541" alt="atari-punk" src="https://github.com/user-attachments/assets/a92d62ad-26d6-4bc3-be46-87a8b47235ac" />
-<img width="330" height="541" alt="atari-punk" src="https://github.com/user-attachments/assets/579ff073-117f-46df-ba7e-711d3ed91fa9" />
-<img width="330" height="541" alt="atari-punk" src="https://github.com/user-attachments/assets/32bf51d0-9083-4fb0-bb80-ca2ac5bf1fa5" />
-
-
+<table>
+  <tr>
+    <td><img width="300" src="https://github.com/user-attachments/assets/a92d62ad-26d6-4bc3-be46-87a8b47235ac"></td>
+    <td><img width="300" src="https://github.com/user-attachments/assets/579ff073-117f-46df-ba7e-711d3ed91fa9"></td>
+    <td><img width="300" src="https://github.com/user-attachments/assets/32bf51d0-9083-4fb0-bb80-ca2ac5bf1fa5"></td>
+  </tr>
+</table>
 
 R1 va a ser un pote
 R4 va a ser un LDR
