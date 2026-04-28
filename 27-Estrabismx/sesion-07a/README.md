@@ -60,6 +60,8 @@ La sesión se baso en revisar que todo estuviera conectado adecuadamente, porque
 
 Probamos lo investigado desde la sesión anterior, es decir, el uso de transistores, se conectaron según lo mencionado por **GEMINI**, obviamente no funcionó, conversando con los profes entendimos que la IA inventa cosas que parecen reales. Para fortuna del grupo fuimos a ver el sintetizador del grupo de Luisa, el cual habian implementado los leds en el 4017 mediante transistores. Luego de que nos explicara como funcionaba, llegamos a la conclusión de que no queriamos entrar en ese abismo, preferiamos centrar esfuerzos en otras áreas
 
+![Proceso](./imagenes/r04.jpg)
+
 Finalmente dejamos todos los circuitos conectados y **soNANDo**, el siguiente paso era clave, encapsular todo en sus respectivas cajas con sus terminales 
 
 [![Error](./imagenes/error.jpg)](https://www.youtube.com/shorts/9d-iETjBh5E)
@@ -74,6 +76,8 @@ Finalmente dejamos todos los circuitos conectados y **soNANDo**, el siguiente pa
 
 [![Proceso](./imagenes/f3.jpg)](https://www.youtube.com/watch?v=-Gm3Elvl8b4)
 
+<br>
+
 ### Contexto trabajo grupal ###
 
 Como punto importante, con Isidora y Dayana tuvimos un martes bastante intenso por entregas en otros ramos para el día miércoles, sumado a que tenemos clase ese dia desde 8:30am hasta 7pm, por lo que esto mermo en parte los avances. Cosa que hasta el dia jueves am no nos preocupaba, debido a que teniamos sonando el sinte, por lo que era cuestión de sumarle las cajas
@@ -83,3 +87,65 @@ Como punto importante, con Isidora y Dayana tuvimos un martes bastante intenso p
 Por lo mencionado anteriormente, esto considera una pequeña sección el día miércoles y en su mayoría dia jueves
 
 ## Caida a la locura / todo falló ##
+
+Por mi parte avance instalando el 4093 en su caja para empezar a visualizar el resultado final
+
+![Proceso](./imagenes/r00.jpg)
+
+![Proceso](./imagenes/r01.jpg)
+
+![Proceso](./imagenes/r02.jpg)
+
+![Proceso](./imagenes/r03.jpg)
+
+<br>
+
+Ya en el dia jueves iniciamos la jornada cortando las piezas que nos faltaron para el parlante
+
+![Render](./imagenes/render.png)
+
+<br>
+
+Una vez finalizado empezamos con el montaje de las protoboards a las cajas y terminales impresos en 3D, además de soldar los potenciómetros para evitar que se desconecten. En esta parte, nos separamos en duplas, una soldaba y la otra armaba los contenedores con terminales, luego de un rato estabamos casi listas, quisimos probar los potenciómetros soldado, pero surgió un gran problema, ya no sonaba...
+
+Por los nervios, pasamos por alto todo lo aprendido de errores anteriores, es decir que empezamos a revisar de manera desorganizada para hayar el o los errores. Luego de aprox 3 horas, inciamos a estructurar la revisión, revisamos conexiones, y empezamos a abarcar todas las posibles variables, baterías, cables, conexiones, hasta que comenzamos a cuestionarnos que se quemaron los IC, probamos con el 555 y nada, la solución apareció cuando hicimos el 5to cambio, finalmente encontramos el primer error.
+
+Una vez comprobado que el 555 funcionaba pasamos a corroborar los demás, incluimos los led al 4017 para corroborar el buen funcionamiento y nada, solo 2 led prendían pero no de manera alternada, eso ya era un indicador que el problema tenía 2 posibles casos, los led (el menos probable según yo, dado que al no haber alternancia en el patrón y mantener la luz constante, el error debía ser la segunda opción) y el IC. En efecto era el chip, una vez que cambiamos este elemento (3 veces, no nos podíamos creer que tuvieramos tantos chips quemados en nuestras cajitas) la primera parte estaba lista, faltaba el 4093 y el 386.
+
+---
+
+Acá hago un pequeño paréntesis, a las 8 Carla ya debía retirarse así que coordinamos como ibamos a terminar esto. Finalmente Carla iba a avanzar todo lo posible en la documentación, mientras nosotras nos quedabamos en una casa hasta terminar todo 
+
+---
+
+Para este momento nos encontrabamos en la casa de Isidora, nos enfocamos en terminar y solucionar lo que faltaba. Revisamos conexión por conexión del 4093 y todo estaba bien conectado (ayudo demasiado los códigos de colores implementados), hicimos el mismo proceso con el 386. Luego de algunos cables sueltos comenzó a sonar, pero había algo raro, de manera irregular algunos _step_ dejaban de sonar, esto nos mantuvo casi una hora buscando el problema, hasta que finalmente nos percatamos que los poteciómetros estaban mal soldados, por lo que la conexión debía ajustarse con la mano (básicamente era replicar lo que uno hacía con sus audífonos económicos cuando fallaban), se trato de solucionar la soldadura pero no había caso, lo dejamos así de momento, con mucho masking tape y fé de que no se iban a soltar. Hecho esto y siendo las 4am ya, Daya se encargó de la afinación, es decir mediante calculadoras de frecuencia, buscó el valor lo más cercano a tonos que conocía, mediante la suma de capacitores en serie. Por mi parte me encargue de la documentación, una vez Daya terminó finalmente se armaron las cajas.
+
+Siendo ya las 7am nos dirigimos a la universidad a terminar esto de una vez por todas, se solucionó el problema de los potenciómetros utilizando cables Dupont (la idea inicial), esto fue muy sencillo gracías al diseño de las cajas, puesto que desacoplamos la tapa y listo. Se tomarón fotografías y se redactaron los últimos puntos de la documentación (lamentablemente algo tarde, puesto que cuando presentamos no se había actualizado, pero _anyways_)
+
+### Proceso Videos ###
+
+[![Proceso](./imagenes/exp.jpg)](https://www.youtube.com/shorts/MRkO61sCz0I)
+
+[![Proceso](./imagenes/pr.jpg)](https://www.youtube.com/watch?v=wFk9Vo_xZWM)
+
+[![Proceso](./imagenes/2da.jpg)](https://www.youtube.com/watch?v=D56QWDAkTL0)
+
+> Punto curioso, acá nos percatamos que el sonido logrado se asemeja al inicio de la canción Crystal Castles - Crimwave 
+>
+>>[![Referencia](./imagenes/cc.jpg)](https://www.youtube.com/watch?v=ayc4Nv1fnZY&list=RDayc4Nv1fnZY&start_radio=1)
+
+[![Proceso](./imagenes/sc001.png)](https://youtube.com/shorts/_m8MDdTVIT4)
+
+[![Proceso](./imagenes/sc000.png)](https://youtube.com/shorts/9_JYUyy7V0Q)
+
+<br>
+
+### Proceso Imagenes ###
+
+![Proceso](./imagenes/r10.jpg)
+
+![Proceso](./imagenes/r11.jpg)
+
+![Proceso](./imagenes/r12.jpg)
+
+
