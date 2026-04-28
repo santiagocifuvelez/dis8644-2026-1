@@ -1,8 +1,10 @@
 # sesion-08a  
 28 de Abril
 
-Llegué muy tarde ups, trabajamos en Kicad por primera vez  
-***recordar: traer coyacs para prestar atención***
+Llegué muy tarde ups... trabajamos en Kicad por primera vez  
+***recordar: traer coyacs para prestar atención***  
+
+FALTA: Terminar esquemáticos, revisar la cápsula de la clase, subir capturas y lo que se vio en el archivo de Kicad
 
 ## Componentes (nombres en librería)  
 - Resistencias → `R` / `Device:R`  
@@ -64,8 +66,8 @@ Ejemplo:
 
 ---
 
-## Capas PCB (corregido)
-Capas principales en PCB de 2 capas:
+## Capas PCB 
+(7) Capas principales en PCB de 2 capas:
 
 - `F.Cu` / `B.Cu` → cobre  
 - `F.SilkS` / `B.SilkS` → serigrafía  
