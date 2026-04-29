@@ -48,6 +48,7 @@ El profesor Misa, nos enseño un sistema de pasos para hacer una soldadura exito
 
 - 10.	Como toque final, si el cable quedó expuesto o queremos dejar todo más pro, usamos termoencogible o cinta aislante para proteger la unión y que no haga cortos raros después.
 
+https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-07a/imagenes/video-misa-soldando.mp4
 
 ![bocina soldada](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-07a/imagenes/bocinasoldada.jpeg)
 
